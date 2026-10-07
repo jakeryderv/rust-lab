@@ -17,3 +17,12 @@ rust-lab/
 
 > `experiments/`     "I want to see how this works"
 > `project/`         "I want to build something"
+
+## sources
+
+[rust book](https://doc.rust-lang.org/book/)
+
+[rust by example](https://doc.rust-lang.org/rust-by-example/)
+
+[rustlings](https://github.com/rust-lang/rustlings/)
+
