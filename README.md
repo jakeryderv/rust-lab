@@ -26,3 +26,7 @@ rust-lab/
 
 [rustlings](https://github.com/rust-lang/rustlings/)
 
+## notes
+
+[[learning-ladder]]
+
