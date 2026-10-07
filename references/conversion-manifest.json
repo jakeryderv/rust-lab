@@ -1,0 +1,3711 @@
+{
+  "book": {
+    "markdown_files": 112,
+    "includes": [
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/Cargo.toml",
+        "sha256": "ac6637d1f086a0e485fb1f0eaf4ba79145e0225a768e5e08fae68aa7dc9e8b09"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/src/main.rs",
+        "sha256": "0596c5800313885c1a4886e2b45f6389bc573c9487d892f02119d7f1f0ddf579"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-01-cargo-new/output.txt",
+        "sha256": "f9c65cc45e87c0ac878bd9761df908cb1544df0d3bedf14116828f1ac6942253"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:all",
+        "sha256": "8b8ce61d672aa03c72b6be7577d2bfbe013108fbc04f88980b373d7105f5442c"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:io",
+        "sha256": "c009e4e669a6b223ce50cedb6794981afc4cd35a4aa062f70aa465383690926a"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:main",
+        "sha256": "72879bbc234f8df8bd94097117f9ba7d265ace4300293bda24393c13c66bdeb9"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:print",
+        "sha256": "dca4cac980a48f8af322639c31591b48c0de9c70e17f5bb5bc4f09788a4b4479"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:string",
+        "sha256": "13fb16250ea2cf0d608b69531a955eb85e5c81f363c4502e5c7fd940fb5b6bfe"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:read",
+        "sha256": "b9ae0e3ce1e955ecacd239325f3ae4e68ec4849668788904e558f8124863b249"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:expect",
+        "sha256": "dcc0c38fcb433cb2cd5185da4bed6a6491aee9f1a921a1b24ffd5a5e8c85be87"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-02-without-expect/output.txt",
+        "sha256": "eaaba10ddbac26359a5a10e5be9d145bfe9989c8e203face64ddecf898ff774b"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-01/src/main.rs:print_guess",
+        "sha256": "f121b777f3e0f5e431353e9f550f6c3de3c2e4978f225156f9374155b182f6db"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-02/Cargo.toml:8:",
+        "sha256": "8075de78bdb23206aa4625d83ee762471be7a8a17de1376e14ccc082fb74a2c6"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-03/src/main.rs:all",
+        "sha256": "8a12f2f279987ed9ca360faa205fbb32c2373a157a1d4b723aedd667c42a3764"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-04/src/main.rs:here",
+        "sha256": "9338889e461a6d17abf7b37f79aefecf1c2fb275c92419083adeb9864578dc3f"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-04/output.txt",
+        "sha256": "dd7d9598eb36a511e03afc09a5b38cfa61c22dfec9ddeaabce6a879d49bd560c"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-03-convert-string-to-number/src/main.rs:here",
+        "sha256": "0608532d98d58beb0d9fbad6607e837b53bf62957108ec734d6ad0eb69f93238"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-04-looping/src/main.rs:here",
+        "sha256": "23780a8ce3be86ec775fd425fba83d015d0856a031f10fd95354bbc8507b5d65"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/no-listing-05-quitting/src/main.rs:here",
+        "sha256": "34a25b625dd308bc4172ce85540053858a28a45e66d19970c3456b5894d8a886"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-05/src/main.rs:here",
+        "sha256": "58e41cfc39f275694bc050c32b31e6cbe1f12e2152b3eeef461a275f6c1455d8"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-06/src/main.rs",
+        "sha256": "34f5bcd6530f72cebf8db6d29d17500b935f8787b6a0d8c3cf54f9a9f720cbd9"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-01-variables-are-immutable/src/main.rs",
+        "sha256": "8ee112a867bb9479580bebc52ff83b41dffd4e7d0a6cbd86fd70c3fb3222ff5c"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-01-variables-are-immutable/output.txt",
+        "sha256": "0d86dce6a17343fbffdfff7e7777b83847a213df219312fe2160eaf3b76e9877"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-02-adding-mut/src/main.rs",
+        "sha256": "6aa398ebbb72fa8134cdfa90a26a6636cb3c2d18a921e0a6ca783e2576ae99c2"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-02-adding-mut/output.txt",
+        "sha256": "e3e7ccf08ad404a8aa73dddedbc22621363ff2235874c4e4a9dc89c2f325a130"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-03-shadowing/src/main.rs",
+        "sha256": "2e7d6b186ebc774ec0b7989e01e7e6e42e571a1b9c11511f9d26816130ad8abd"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-03-shadowing/output.txt",
+        "sha256": "9e706fb79e0b875537d7eeae89e7be708e5a6361e907253e3a3e4e2dd2ecfd59"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-04-shadowing-can-change-types/src/main.rs:here",
+        "sha256": "5f354c0c85b21c9a0b52bd1f0f88364cba5d24cadb48768b934e6a07093336d5"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-05-mut-cant-change-types/src/main.rs:here",
+        "sha256": "52fcdfd57fe9b371726bf51812f48b3e2a1ad186f9ebc0fb75e7a32fdaca50d5"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-05-mut-cant-change-types/output.txt",
+        "sha256": "b90654821e2c9944a662ba6bba0f5f1251589be8d0e93eca445df4ae1771785b"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/output-only-01-no-type-annotations/output.txt",
+        "sha256": "0c7246ccad45e736fd428a4152ff3263534e2d1ce85448d55f13b660a23c20c0"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-06-floating-point/src/main.rs",
+        "sha256": "5e38de9539f41ab00e247f6d8db3bce88d50b7270cf74404d1bbfe7e897128c5"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-07-numeric-operations/src/main.rs",
+        "sha256": "d17b71eed370beb2ba3efa012de45f17e2f47f5874418d61146779deccc8a939"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-08-boolean/src/main.rs",
+        "sha256": "8af96a918aa7ef7bfaa16d1f1a069c007eb0a1cfa4cf217dd8c9db2409f21a35"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-09-char/src/main.rs",
+        "sha256": "21305d86a71a1bcae891d051ac7f5c346db86f18b1f15acb25bd6af1d0f87625"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-10-tuples/src/main.rs",
+        "sha256": "c832ed59e1755bd2173216212fbca5eff197ed58702a704d932bd743f17d5ceb"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-11-destructuring-tuples/src/main.rs",
+        "sha256": "cb54e7fdf7f968f28f72c3616cad4ff4e62dcc2509c74194e30f31bb09cd40bd"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-12-tuple-indexing/src/main.rs",
+        "sha256": "50b84c25d6a6610489fd8e9dff4459d2e5f9543ca1469578fe65a7ad67f04ef7"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-13-arrays/src/main.rs",
+        "sha256": "e1cdefdebe13449d7892043ccd8781e1ae506a4ed458cffcc095227bfbd26cad"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-14-array-indexing/src/main.rs",
+        "sha256": "7077e8a4264cbaaf07f933828069b7702ba8cfc87743fc2f1998a8cda091b2bd"
+      },
+      {
+        "chapter": "ch03-02-data-types.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-15-invalid-array-access/src/main.rs",
+        "sha256": "ded628fa492ef1dad2ad488f6d70c303c2402c3c882af608247b7574624ed9f2"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-16-functions/src/main.rs",
+        "sha256": "a76ed4f8baa1b40812f59d00d723fde61574e04f35f5be32eda1073c44867098"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-16-functions/output.txt",
+        "sha256": "07f82cf31ed17921cd5b7cded179de9dbac38dddc58d3038c99201ca3887f952"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-17-functions-with-parameters/src/main.rs",
+        "sha256": "f1e5fa4774a2fe72e23a458fe36c5017bdeebf0592d7ed6d829ee0ce1ee3258f"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-17-functions-with-parameters/output.txt",
+        "sha256": "85641872c839c3b47e4bcb949bf720c9a5c7c207298ddf6ccebe47aff51a0895"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-18-functions-with-multiple-parameters/src/main.rs",
+        "sha256": "120da6f88031d8c992da0aeba820f0263c9d7097458def0c69cb15f29f748fa0"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-18-functions-with-multiple-parameters/output.txt",
+        "sha256": "fbf891003073da92acbd9683ee22755ba25b7b314e5add8d2da39e3bd9d52c2c"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-01/src/main.rs",
+        "sha256": "d898911670703d1aac53aa9b12d0d8db157958242368fae1a737854a5b996376"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-19-statements-vs-expressions/src/main.rs",
+        "sha256": "44df18601beae665abdbb91fdca4606e39c3bc71d033d9eb7543127cda085b4e"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-19-statements-vs-expressions/output.txt",
+        "sha256": "306bb196280a566d12a05c6e2dcf16338ad54637e63cbe201ef5d497bae5bb2c"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-20-blocks-are-expressions/src/main.rs",
+        "sha256": "d09821e0f85c6d2faa6357f40499d35031c1e25e3a522836216e8ae4bb3b2572"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-21-function-return-values/src/main.rs",
+        "sha256": "bd79a412a1359144a8934603b29d04fe44ed06e8d87ad4c7f27bb47ce88b9c89"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-21-function-return-values/output.txt",
+        "sha256": "7090b8283b282eaf2f332f5e6f4656a13e1a7304bf3b1afb83c1e2bc4b7f652f"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-22-function-parameter-and-return/src/main.rs",
+        "sha256": "e2fad4a70f393c9d97b969d5175efe1d9e4f02a6dbac312b646a98cb6e4ba5fb"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-23-statements-dont-return-values/src/main.rs",
+        "sha256": "83d97ee938172542460b22a5fb619dd47b2fe667e0b4e7555991e89e0f25628a"
+      },
+      {
+        "chapter": "ch03-03-how-functions-work.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-23-statements-dont-return-values/output.txt",
+        "sha256": "adc27328a1cb2b3fe1a30d70e2cd099a52fce26d4d385dd6ce5a39e90074dc90"
+      },
+      {
+        "chapter": "ch03-04-comments.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-24-comments-end-of-line/src/main.rs",
+        "sha256": "9d6f911f39417cb0394ef1555516060d37286e589fb6643de038a9a7d3538609"
+      },
+      {
+        "chapter": "ch03-04-comments.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-25-comments-above-line/src/main.rs",
+        "sha256": "6b3f5852fe4f52c6642b4948cab4283bdd7c8a20dad28f8fe658c1a685242380"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-26-if-true/src/main.rs",
+        "sha256": "d07d4c4a298788e9fbad79b45cb34eee00d01e9fd9e8c661ccd1deb04f7e01ee"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-26-if-true/output.txt",
+        "sha256": "92c1ac6214fdb940f628d5440e811621e0884e313cf895125a0cc71502a0adf0"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-27-if-false/src/main.rs:here",
+        "sha256": "1cd375f86b6fb73c56cd645b34b1e45f0d0cca6ee46c9842f4efbb074f5c9913"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-27-if-false/output.txt",
+        "sha256": "d8d2802eb9857e09d21280d0f8770419b83da6c56ced866abe4f3c73005fd9e2"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-28-if-condition-must-be-bool/src/main.rs",
+        "sha256": "df53d07425ed49c7bd0ca7d45cfcee39d83a42abf5328e3ad3891f69c0df6d9f"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-28-if-condition-must-be-bool/output.txt",
+        "sha256": "5a2bb23cb5fc3820b559403ea5ad2296f3c3686b9bfaf3c863cbd2cf53828540"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-29-if-not-equal-0/src/main.rs",
+        "sha256": "a57c487c35ae743daf6bfde6ccc88473592d9142c1c98121360de475685cc78c"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-30-else-if/src/main.rs",
+        "sha256": "63c48bfff85c24a8a6e5d49507edd3e9d5b36798af102fc54cdf016bbaf80314"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-30-else-if/output.txt",
+        "sha256": "49dca7b0778b610a92b3d29454fdc6919f6d964462d1526c0e3898a9862806dc"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-02/src/main.rs",
+        "sha256": "c4d82bb29b4bedc50bc30c3a761e7b5e538d4aa396679d45075093df3bc10444"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-02/output.txt",
+        "sha256": "3a16d55451420c99990c40cb4b4b78949607172ccd05d9d9af45c136d112c50d"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-31-arms-must-return-same-type/src/main.rs",
+        "sha256": "10c63f29bcb8bbd2dd6ab07675867aac0c6734e25a5936be832804ae50a8475f"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-31-arms-must-return-same-type/output.txt",
+        "sha256": "5a1249a5b47a9d5d7d1f927e4b28639f7ea15a334c157cb3f040246f3bf08523"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-32-loop/src/main.rs",
+        "sha256": "b328b29f2b2581a4942f62d0a8218dfc2404631ea0d5e9c660f736898f87a5c7"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-33-return-value-from-loop/src/main.rs",
+        "sha256": "f943c65d7bf6aa3b292e5cde3419c3352131f2676b910df1412c31d1c2c0eea6"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-32-5-loop-labels/src/main.rs",
+        "sha256": "faffc5805ce2a604088263827f5c66e5df14dace09953b655a34219793716af4"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-32-5-loop-labels/output.txt",
+        "sha256": "10fdd768fe27a35b778e7882545b752c29e4d30209d4e38c0aaba520c539093b"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-03/src/main.rs",
+        "sha256": "c6f5629c5edafb37edd91f0426d3b2743a257ea34511117b7b79ec4a183227e8"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-04/src/main.rs",
+        "sha256": "dae65077c7e0497da73dafacc149ac9c6419f3032236e55603a07fe833f8e063"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-04/output.txt",
+        "sha256": "e5a43525593e408350b8e969d59003be9cb48daccd4452b944486813e661887b"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/listing-03-05/src/main.rs",
+        "sha256": "d0cd4c0657dd7d6470c611a175b0f0d26e5a09dd5fd2a93c1be229c11d98fc59"
+      },
+      {
+        "chapter": "ch03-05-control-flow.md",
+        "source": "../listings/ch03-common-programming-concepts/no-listing-34-for-range/src/main.rs",
+        "sha256": "7e2b2f91dd64ac77eaa231478b1176cfc0cdda70f3007af8d7523f7d1f300db7"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-01/src/main.rs:here",
+        "sha256": "8d38cca39f68809e5245793d1c3615793a0731953596db5d8e72b32b7941514b"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-01-can-mutate-string/src/main.rs:here",
+        "sha256": "b0faf3962dd40daf3800ac2262d25a5b672825b626613316b6b3e9e628b7aeeb"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-02-string-scope/src/main.rs:here",
+        "sha256": "10715071bcc5d2d411c37e61144b6d2229f7dce634c16a42f2015070fecb1fb9"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-02/src/main.rs:here",
+        "sha256": "9a1605ec96d42c50f73e668b047fccecbff18d3466ed23c74708b3f874c22134"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-03-string-move/src/main.rs:here",
+        "sha256": "b6fa6daaa6c830866471a24b6d5a4b677d4d72b29d36d13b86ed3650fb792dff"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-04-cant-use-after-move/src/main.rs:here",
+        "sha256": "fc10c14bd4ca48a6568d697902d90a6881180219703ef9ce9e0c74576bde7697"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-04-cant-use-after-move/output.txt",
+        "sha256": "2a43b63f329377be911d81495aa297ff0c5f587817744876ac564f9489dfd9a4"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-04b-replacement-drop/src/main.rs:here",
+        "sha256": "66f643f0cd25a01e8af79ce550a3774dbf12f4a3b70c8f23025aeea4b75078b9"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-05-clone/src/main.rs:here",
+        "sha256": "30f750d1577b012268dcd66e0ae7d34598eb768a82e391ce80166fa996ba5688"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-06-copy/src/main.rs:here",
+        "sha256": "a0d5b753987af3d3779bb73428bc4e29025258e6b4e25e32e631508c456492f5"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-03/src/main.rs",
+        "sha256": "540c84a28ed50dec8e220363188276d4fa5be4e797f8dff54f30341f1e8632de"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-04/src/main.rs",
+        "sha256": "638ae9068d426c271f26d24099aabd6996c0373ece7dfcb65a6992b26aafe996"
+      },
+      {
+        "chapter": "ch04-01-what-is-ownership.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-05/src/main.rs",
+        "sha256": "c3bd8d2ae2b9ac135e895892f2bb30dbb7b46cc3a4d7a56bdf6239625cd11737"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-07-reference/src/main.rs:all",
+        "sha256": "71338d7695afac8a4acdb83a3c6f652cd1875e2ca74c4bdd220d48d68b371d22"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-07-reference/src/main.rs:here",
+        "sha256": "4edab81d82a110ccd6023b0b7e61eed4a455efd92647d76b56633044ddca9b6b"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-08-reference-with-annotations/src/main.rs:here",
+        "sha256": "d79f4b64c586a99bd05dd3a1a769435c7f1bfcd42b8b6357f076ad891acedd88"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-06/src/main.rs",
+        "sha256": "393548bd11e779070bf4ad99d5c71c7bbe71f50285115cb1f7434044dde723b6"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-06/output.txt",
+        "sha256": "e002db722481728864ac3eb65d1ae621c1ab50d53653d8680488f1c45a85e1f2"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-09-fixes-listing-04-06/src/main.rs",
+        "sha256": "0967c3b75f7ee2d32ddc4f7c4c31867d1b9a307e2f9939783fb6515fa29f984e"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-10-multiple-mut-not-allowed/src/main.rs:here",
+        "sha256": "6bcbfe3c80b5b27ae908a953d61ff6ec50834a7a951295ae5abf0bb11c20c7b9"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-10-multiple-mut-not-allowed/output.txt",
+        "sha256": "6f2a445acb6756f7526675b0aee55287e64002dd8c10f788fd6bca695743a7b2"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-11-muts-in-separate-scopes/src/main.rs:here",
+        "sha256": "accf6f862bd262605a43d9718d7da243fda20ce0e98dee6186a4f222dc882711"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-12-immutable-and-mutable-not-allowed/src/main.rs:here",
+        "sha256": "1fab82478630ce8257c9301be741d18d5486d09fdef71fb178ed29bb48c1fe43"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-12-immutable-and-mutable-not-allowed/output.txt",
+        "sha256": "de572c7d9a392252cd8b7b83663163b666275f886c9f5cdd1bb3187977187824"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-13-reference-scope-ends/src/main.rs:here",
+        "sha256": "17b9564e4cdeff072eabfd2b0d9521334d68cc5dde36a2b53f65744b8a5924a9"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-14-dangling-reference/src/main.rs",
+        "sha256": "95570c194fa3afa94f26457269201e2dbf6cde2a32e893e454b6af8d852110ce"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-14-dangling-reference/output.txt",
+        "sha256": "6d3d4efc3e6e886632d146006f7a644954d374d4b39a68a046378c3f14fc3d57"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-15-dangling-reference-annotated/src/main.rs:here",
+        "sha256": "34dc9c8bf059f3aea0994abc2fa96218007abb693ef913c30d26e5f6f9955f70"
+      },
+      {
+        "chapter": "ch04-02-references-and-borrowing.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-16-no-dangle/src/main.rs:here",
+        "sha256": "a8ae64d14250211a23b906ff01746dc9b814140939ffe7fa840caf2e904491bd"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-07/src/main.rs:here",
+        "sha256": "2b0417e0720c209e3f89da33ff2ac00c15d6356cb2cb7704c369f98cc3e87f97"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-07/src/main.rs:as_bytes",
+        "sha256": "d2dd5b517d06b963e5ed7a973bc23367746ddf8cc030ce7c0fecf7955235a501"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-07/src/main.rs:iter",
+        "sha256": "dbe1743366977752316cd37a365c0fed64fea9a578cfbbba303db01135a778d4"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-07/src/main.rs:inside_for",
+        "sha256": "bff966b875a0348d435265bb3e5c588eced72566c4d39d3f8a33e65fad0590bd"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-08/src/main.rs:here",
+        "sha256": "e995bde21c3bb9d398c85fece77cf9e9bba70b4c1af2afc7261a0e8fec480e17"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-17-slice/src/main.rs:here",
+        "sha256": "8fd3ed2408dd7714ae1eb338c7b29f5785a39feecde8ca0f59e30622a53b0d56"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-18-first-word-slice/src/main.rs:here",
+        "sha256": "5e42f7f148a5d370730fea3539ec623802985b4dcf706ab61492e36836805e68"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-19-slice-error/src/main.rs:here",
+        "sha256": "60991fc5cc94fabc42638bda5a9553d725839c4ff2f80f9413e8199f5fa3f09b"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/no-listing-19-slice-error/output.txt",
+        "sha256": "e7925598f37d7b5c174cf3c0cc8adbd3a68770e83270d5d8aeb39dcf027bcb88"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-09/src/main.rs:here",
+        "sha256": "d50ca98222a890b4de71f98a4410c47c4ca98fd20c2a7a2bc5e5256696f5663c"
+      },
+      {
+        "chapter": "ch04-03-slices.md",
+        "source": "../listings/ch04-understanding-ownership/listing-04-09/src/main.rs:usage",
+        "sha256": "66ea0398858e2c2f10bad82d5c16e4b7e27652aaa6e16f6478147ee600377b0c"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-01/src/main.rs:here",
+        "sha256": "37de86ccec5eb9cde09dc216429e8f6628b5f2c50dbfb190e79912383fa3c1fe"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-02/src/main.rs:here",
+        "sha256": "b22ef6e30c20f4c967aee1c18f9be6331afa80b55b3bb1f92c3c3816dedc1905"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-03/src/main.rs:here",
+        "sha256": "c0b208eb7aa7c4fddac39b5162c75bf37a9d0b6e8927af55d1b859b2c7ba4162"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-04/src/main.rs:here",
+        "sha256": "32b227dccf9534ed3c5e9867bae80d7c449c078956cffcd0337e56d83fc4aa79"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-05/src/main.rs:here",
+        "sha256": "878d3ed7e4687e40edfbd616a915a9c4ef3bb02b3bd58b3bca21e8522842293a"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-06/src/main.rs:here",
+        "sha256": "24ddba916236f967eb254c8b9dc585811844801e1afa625fdb96771addbf7341"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-07/src/main.rs:here",
+        "sha256": "fcba26a9f7502209ed46df1c63de8ce776b48000255bd86001a4dfc7a09f5f1b"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-01-tuple-structs/src/main.rs",
+        "sha256": "24dc92a1ee88799bd44513474e0c4da602a2d1bfa657bfa7f4b2dcd915087632"
+      },
+      {
+        "chapter": "ch05-01-defining-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-04-unit-like-structs/src/main.rs",
+        "sha256": "db62689cbcaafc289a05db221d9ee427e849ec194496759d1749b89855d88e7c"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-08/src/main.rs:all",
+        "sha256": "657030b9137d5274283616efde163240c0ce3c42a2d36770fa3907e680a1680b"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-08/output.txt",
+        "sha256": "dd56893741ea791a4d5975ebb4ef7d90956237aa1f676d5e270451d4cb8c884c"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-08/src/main.rs:here",
+        "sha256": "b2c05bd7d5288772ce6e768db72dd71f34d097d3273197e5e16c07418274fcc1"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-09/src/main.rs",
+        "sha256": "b21772409afb4b512424f2c01d8da31ef0c467e497ed2931684c8fa145301cf3"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-10/src/main.rs",
+        "sha256": "8432894f18b5bfd9cea0123f58918ea8f47b2b2616b6410ea6c2bc10ba3a16e2"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-11/src/main.rs",
+        "sha256": "1107df1f2038920c693664bd8ffafe8f9f2ba970f181dace698ab27d435c669f"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-11/output.txt:3",
+        "sha256": "0820757ad9e439ba907820949e6cdc4ea8613e35540de77efe1e1ae9bb4258dd"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-11/output.txt:9:10",
+        "sha256": "dbe51177d6c2a47ef1523a3ef432c9e5c2c5fc44e3cacebc337df7b8c47a81bf"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/output-only-01-debug/output.txt:3",
+        "sha256": "aa259814fa2b810d8f4feb9e352c59dc8e73543e4ef5df2c6b37fef082b6983a"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/output-only-01-debug/output.txt:9:10",
+        "sha256": "cb06c41900d96c70613c6519eeb2c79ac62d8414a3190caa78211bfae624d79c"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-12/src/main.rs",
+        "sha256": "c7cff81884bbe4be43906d6bc385f8023575870f08735ca7803b88eea852fc16"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-12/output.txt",
+        "sha256": "a7ad9183da0d1e1b60712b48303da90f2abfd8bc25bfee7c06b84af66b281848"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/output-only-02-pretty-debug/output.txt",
+        "sha256": "89018e027d65bde1b9a3451db5fe351c7cc173a39400e5149d245d3b0514f64e"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-05-dbg-macro/src/main.rs",
+        "sha256": "d5a111691b6a8f9b217b8fbc07adade4b11f35d9850fb6ca9bd94a52ff3eb5b5"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-05-dbg-macro/output.txt",
+        "sha256": "2e6aeb70e9ba2752b3a7af57fa9176de02f1dcf36da797ef9dc0b2bd26026fb9"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-13/src/main.rs",
+        "sha256": "fe7ee78a48bb7ee4a7d108a6ca4f40d04ff12173708b75282184e192acd28b82"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-06-method-field-interaction/src/main.rs:here",
+        "sha256": "ebb4907729becb4c4a4a6e2f7f9b51aa6de59a87b971b55611f84c2b8d7139b3"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-14/src/main.rs",
+        "sha256": "2b755e0e789de04292239d5f500c7dffdd37947cd9fcabfba72d84e5db9e5b75"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-15/src/main.rs:here",
+        "sha256": "0bb61bf1f79e99b3bbb087ec38443a3e55de4024ed5eb5360fda353e68830f5f"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/no-listing-03-associated-functions/src/main.rs:here",
+        "sha256": "2372a97d759fc0782e186d811eb060148ce0fe23a2a2f67d29ddbf9fdd858a29"
+      },
+      {
+        "chapter": "ch05-03-method-syntax.md",
+        "source": "../listings/ch05-using-structs-to-structure-related-data/listing-05-16/src/main.rs:here",
+        "sha256": "e0444ad68f7d136abb685bc0f4058c8f09ae4b287b21c7da485a651760f8078c"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-01-defining-enums/src/main.rs:def",
+        "sha256": "430304cf55e8cdd20e1086b54278f0838087b163bf6edb0aecfd4b53f2ca5da9"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-01-defining-enums/src/main.rs:instance",
+        "sha256": "0381ffbf3558c4dd774847a3109d135edc126bc8212613c5a112535b9b5ac164"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-01-defining-enums/src/main.rs:fn",
+        "sha256": "eaf9b9207f75f15b404c23b560347eef7d4869717997c8b7358622ad7c616fe4"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-01-defining-enums/src/main.rs:fn_call",
+        "sha256": "f6c0e4b49b7c1fae2cc1bb9b715fcafae4463781f1071fab1326543bbd4fe8c9"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-01/src/main.rs:here",
+        "sha256": "3a459dcdeb00051bcea859c3ed518fca53203859d3726fae57bbdc9497433b50"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-02-enum-with-data/src/main.rs:here",
+        "sha256": "c27b584e45b9dd7db45f6432b47346a3f22df674e9718130b6269c4844e366fa"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-03-variants-with-different-data/src/main.rs:here",
+        "sha256": "7f57211b16644f38eaa1107795596f168ba46dd9ee5330080d43d7a60162c726"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-02/src/main.rs:here",
+        "sha256": "4f0054637bdd720fe7d4ae8f49dde07e3e8dad41a2b42881b6cfe89cbccfce9a"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-04-structs-similar-to-message-enum/src/main.rs:here",
+        "sha256": "89d10d847189891ff0d2be0aec2104a5a81bc6cbcb8fe46b626901e36db90c17"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-05-methods-on-enums/src/main.rs:here",
+        "sha256": "43747d142f361a9b6922d09c95f064438e52af4c3b8a20c5241cd9e24a49e0ec"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-06-option-examples/src/main.rs:here",
+        "sha256": "8e8f437409ba42b0111d081877db5cb260bc3e34898a846aa0e387b7925eaac3"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-07-cant-use-option-directly/src/main.rs:here",
+        "sha256": "8c215153229da9b61650787a28ffc26e602518c457283e34ea7f2f15847b5336"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-07-cant-use-option-directly/output.txt",
+        "sha256": "e894e1bf8d14adc8965863f154c59eb589fa658b3b3c71c1be98143ec18bf4cb"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-03/src/main.rs:here",
+        "sha256": "82c4f4ddab8e6f45bf01829674f8fddc36624965e37a33df471aeddd3279770f"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-08-match-arm-multiple-lines/src/main.rs:here",
+        "sha256": "b4f04752110cee920fc5ab7d3126dde0523c8c20ac892df8a1e0c8a8765f371b"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-04/src/main.rs:here",
+        "sha256": "ca33be2a281ef1c5bae5b62ae06d00bbedc18b9c8e4310a2bd10e5bbd04f89b5"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-09-variable-in-pattern/src/main.rs:here",
+        "sha256": "7b6ad5674e8437788d7958387da97a6fb262bd295af0519c9afc95375f57d5a4"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-05/src/main.rs:here",
+        "sha256": "5f03e2cd82bbbdb048ebae598e81a198bf49b524efbbfb2a49948c9a62a6d002"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-05/src/main.rs:first_arm",
+        "sha256": "0c96b35f3aca7679c09560b9b038f14c951814d5e15165dd27931b939eeaf3e7"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-05/src/main.rs:second_arm",
+        "sha256": "7dccbcd9aa6a746579f72e2eef99f8c4356f5052f1c5e01617dd062f6cfb6fe3"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-05/src/main.rs:first_arm",
+        "sha256": "0c96b35f3aca7679c09560b9b038f14c951814d5e15165dd27931b939eeaf3e7"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-10-non-exhaustive-match/src/main.rs:here",
+        "sha256": "58c5e625c20fb14dc0c2cb9b05d21524dfac288382d12b60636d67aa5a66e3ff"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-10-non-exhaustive-match/output.txt",
+        "sha256": "8aed4ee5a38dc53a1d5ba117e9dacfa8ab02b11b72ab74bc6f55e282cbc799b9"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-15-binding-catchall/src/main.rs:here",
+        "sha256": "8197f36d4b2bd3d50c8071d85571351a893e9ee7a41bfe8ee826fe68e6a021fd"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-16-underscore-catchall/src/main.rs:here",
+        "sha256": "ef877b8835415f81f0be5ca1982b03d443192dece6ced32fbc9409221e7248fc"
+      },
+      {
+        "chapter": "ch06-02-match.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-17-underscore-unit/src/main.rs:here",
+        "sha256": "f0ba96d501542e574a684914861c99bc450c92d82aa41e5b61e430ca1be72a6e"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-06/src/main.rs:here",
+        "sha256": "4e7cc671d0fc43086f7b04320b079676cbf2dc60812ab1832b35aa6bd144665e"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-12-if-let/src/main.rs:here",
+        "sha256": "a048d4bc4415112e2c0005b583e37757068dabc6448e7c23c6ad16cd9eecfea6"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-13-count-and-announce-match/src/main.rs:here",
+        "sha256": "ba4add465797b02044d765edb6e46f2424e7ca8ac6a33f18f076c62d45b683d6"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/no-listing-14-count-and-announce-if-let-else/src/main.rs:here",
+        "sha256": "f80240cbc7a1f6e7a4f534e60a01020992058c742f5338ba5d45a70918e8d3ae"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-07/src/main.rs:state",
+        "sha256": "1704b1a6b16c93a89aa6302f716434e5cfc34551ae7712bb78356084c4ca1d67"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-07/src/main.rs:describe",
+        "sha256": "c9d1f56b6b9289d4b1a989fecf00df4c37e71c9a37e699b756820609454fa563"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-08/src/main.rs:describe",
+        "sha256": "872ddf280cbffe0e90c676f373e04d661e34cf49513e4bac7cd1d5ba5d4cacfe"
+      },
+      {
+        "chapter": "ch06-03-if-let.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-09/src/main.rs:describe",
+        "sha256": "cd7b38cdb9e066d10af2dc8d241fc31f5cfd4b65aaf7553ec6c7c2a5a8608c3e"
+      },
+      {
+        "chapter": "ch07-02-defining-modules-to-control-scope-and-privacy.md",
+        "source": "../listings/ch07-managing-growing-projects/quick-reference-example/src/main.rs",
+        "sha256": "12ae2d67fadee9e1169a40583faa2eeb932025f3ba27e13faa642890c85ac0ba"
+      },
+      {
+        "chapter": "ch07-02-defining-modules-to-control-scope-and-privacy.md",
+        "source": "../listings/ch07-managing-growing-projects/quick-reference-example/src/garden.rs",
+        "sha256": "b1091f425bcf628a7b037bbe819cdf19616ac463bc19699b5ca800c2fc519d76"
+      },
+      {
+        "chapter": "ch07-02-defining-modules-to-control-scope-and-privacy.md",
+        "source": "../listings/ch07-managing-growing-projects/quick-reference-example/src/garden/vegetables.rs",
+        "sha256": "9c52323c424f5bab54c4691baddcb7b3926111aee294bd243871626d4c4a16aa"
+      },
+      {
+        "chapter": "ch07-02-defining-modules-to-control-scope-and-privacy.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-01/src/lib.rs",
+        "sha256": "5dbaeda56ba2f1a515746a7d80a11dae7a6d026a7f65e8be44b4dcb2a6c2c60e"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-03/src/lib.rs",
+        "sha256": "5dc92a418f5bcabfd47270515722fd0df85475454a8e7ddbb51300a83392aaa3"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-03/output.txt",
+        "sha256": "86cc24060b20d3d3da00e2c0c8cc142be8323972096b28181abd09c4c9b7cc0d"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-05/src/lib.rs:here",
+        "sha256": "a91b7289ed20d306473a150d2aede16ff5f8bd43cd2455ca0ccb915a5f71f2c2"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-05/output.txt",
+        "sha256": "4707fd360376f6578e169831c0d12904b4b5c30a8f09f395b86189c1accb3536"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-07/src/lib.rs:here",
+        "sha256": "d70ee8b8c502bc54f4f1ced8229575b95c495e0de3fe502edb1ffa6955a0e762"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-08/src/lib.rs",
+        "sha256": "1bf584308ff7d6b242329375b1f51a5cffc3b64fb296fc46f6a7c36048ae4c64"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-09/src/lib.rs",
+        "sha256": "27c46f78b23b8752d7c7374385ce4976d36982717a3fe804476db37b0e5c5c9f"
+      },
+      {
+        "chapter": "ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-10/src/lib.rs",
+        "sha256": "fa396102960f474015c1068f12c51900f53daa43d8f546cadd08bef7d51a1091"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-11/src/lib.rs",
+        "sha256": "4caf96838695a83ae4145ba24f5c54ce97c59d4c9b5f0d13fbd16a3f22473ac0"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-12/src/lib.rs",
+        "sha256": "12820dc1edf717ce9c8c098bd1affe6fec063aa4c389dc79ec532e6c30b531f6"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-12/output.txt",
+        "sha256": "e40d48f4e80332d2a79d13a3b5e890a6894bbbc5b110e2a9b5ffb7283be0a25d"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-13/src/lib.rs",
+        "sha256": "f9b7baf15701ed63aa3968e8b762114fdb184dd214c4dfed05dc9a9a8ddef7ca"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-14/src/main.rs",
+        "sha256": "16e76696c63dd0cb766efce542052fca5645057ce2ba74bbc4d327337745f894"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-15/src/lib.rs:here",
+        "sha256": "87893827f7e6ae9e0d86edcc63506c32ffed667c6022021c6b52aff35786a43a"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-16/src/lib.rs:here",
+        "sha256": "c585f6c1bcd40bc031e328e7a81771df864b50e3f9b36aec684f6aa9937c849d"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-17/src/lib.rs",
+        "sha256": "af9821337f64f6d1c91f0647da4975ee7d4b18238155e64382827136c78aeb0d"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-02/Cargo.toml:9:",
+        "sha256": "1c3b4de850462782e108455b3c591e64671dba01485693cd2ed21f5b2e911241"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-03/src/main.rs:ch07-04",
+        "sha256": "07dc61239fad6f865a2006568852355d1daa7ee22b0e8e4e2a7270729ab69513"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/no-listing-01-use-std-unnested/src/main.rs:here",
+        "sha256": "fac307cde9ff740d0f0e851aebc5bfe33f50f6c00b77e1e7e01e5bf0cd7a7bba"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-18/src/main.rs:here",
+        "sha256": "7d03639b4398cd12975308476dd85da3f09d1a38b8cc304c90b7c0187cf3e383"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-19/src/lib.rs",
+        "sha256": "bbd3ee56eec34d38237c35de95a8515b2d0b8e7e3a04ce2237ff3fa2879ae3a2"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-20/src/lib.rs",
+        "sha256": "2be4e7f3ae13ea4e4fbfa7789439be119443dce57f5c24732e36ffaced4579e0"
+      },
+      {
+        "chapter": "ch07-05-separating-modules-into-different-files.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-21-and-22/src/lib.rs",
+        "sha256": "6cb4035d691578d051cdee91c4f63e7d1e02f93cb9e6d26fe95421aacffa091b"
+      },
+      {
+        "chapter": "ch07-05-separating-modules-into-different-files.md",
+        "source": "../listings/ch07-managing-growing-projects/listing-07-21-and-22/src/front_of_house.rs",
+        "sha256": "3645f662cd702bf2db7988f153b1dd9876edda929b861ca5aeb81b63fbdb2fc0"
+      },
+      {
+        "chapter": "ch07-05-separating-modules-into-different-files.md",
+        "source": "../listings/ch07-managing-growing-projects/no-listing-02-extracting-hosting/src/front_of_house.rs",
+        "sha256": "d327d9ba8b27f21cee9c1997ed433f2c67676f25f2c0e3441a83e29069280b7c"
+      },
+      {
+        "chapter": "ch07-05-separating-modules-into-different-files.md",
+        "source": "../listings/ch07-managing-growing-projects/no-listing-02-extracting-hosting/src/front_of_house/hosting.rs",
+        "sha256": "d813dc2659c48c36a244195fc5cde0449fbc8bd40117c8b933e22aae0ac57bb3"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-01/src/main.rs:here",
+        "sha256": "2a76f8cbea68796fbcd62fd7b2a7bcfe89ce510cb14603d4ec71c4ed6ef5b006"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-02/src/main.rs:here",
+        "sha256": "a9b2e1a08867ef69653712d2281f66a9e650c595e4d3df35287ce1a1b39a6f7b"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-03/src/main.rs:here",
+        "sha256": "f74d555ee2ccd30b4ea293e0936f4d2817f8a82cfb7c0613da06720b6a516cdb"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-04/src/main.rs:here",
+        "sha256": "ba89634fdf9c10ab1474de36b847ff737dbaa54c5358f3e6e0cb56b3d052d6e5"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-05/src/main.rs:here",
+        "sha256": "8941f3061a52347c506bfab5c1e075bb58a97f97842c7777d425564d192be671"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-06/src/main.rs:here",
+        "sha256": "e411c7df81c1e870e7b6db52d6766b28a24d4bc5cf1a15d8525b49a978040bc0"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-06/output.txt",
+        "sha256": "c20596749b404acf1cbc4d42fd2293728ce3e44a6111b3a6db246abb50aaa06f"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-07/src/main.rs:here",
+        "sha256": "bd80e9c0498769b431bcf8b18b0088b226e4948b642ae55f91f9acf14a943203"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-08/src/main.rs:here",
+        "sha256": "664c51d49955dd11f0a3c794581825514634a87167a89c25b736ec94cce72723"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-09/src/main.rs:here",
+        "sha256": "c8d999ebbbacc134e39b0b58e7b3484ddd22bf93e057812fae122432f294f60e"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "source": "../listings/ch08-common-collections/listing-08-10/src/main.rs:here",
+        "sha256": "652dff33632619e2a7379d04cbbe6cfdd0d25fcf13681e9825f0e4dc0b0ac6db"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-11/src/main.rs:here",
+        "sha256": "91b53119674aa313f7fabf88b5635cf12d47dc2996b357c78542684b57e31499"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-12/src/main.rs:here",
+        "sha256": "9e01b321b3b1f4244cbe4e926960f12726a3271e6a0a1f078276dae61025069e"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-13/src/main.rs:here",
+        "sha256": "3b5225949635cb9c7d1a18086baad62d0fd3302d64994e75749821ec5234e2a4"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-14/src/main.rs:here",
+        "sha256": "5a7660da00bb267b02b1b3db82346a02a18132e2b4c33962015064ad34065267"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-15/src/main.rs:here",
+        "sha256": "97dd24ad50c63d11a3cd020b2a0ea6daa336991e070e40ea5e40e577a3a2e1ca"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-16/src/main.rs:here",
+        "sha256": "2fe44c211a78ab9c1f7f3a49d40e7c4a6dba6bc237792e0a16db609df5057bd8"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-17/src/main.rs:here",
+        "sha256": "fae4a5c10c15f37ae1c034d7691f34578c609c15d4cc6d02d54db0cc7b5502db"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-18/src/main.rs:here",
+        "sha256": "36be7f29ca1397fa7f16656a4e56279b420d01da47f41ed5dccc286b377b7b16"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/no-listing-01-concat-multiple-strings/src/main.rs:here",
+        "sha256": "c9ced28cf4d74c06fa9a8b10f72823de6dc0b523c0f8c7131cb45f3a263781ee"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/no-listing-02-format/src/main.rs:here",
+        "sha256": "7d8b476e679b86640ffeb8e8fa2ff266cae388441e5ac35407c0bafd727c32f2"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-19/src/main.rs:here",
+        "sha256": "13d3f3666616c3faf2ff9a4d2f4fc48f1ee68e8607426e499784859e7afde381"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-19/output.txt",
+        "sha256": "5a6496933de70257352e391a2b104da79fb65fabb7d6488bb800593517f451ea"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-14/src/main.rs:spanish",
+        "sha256": "3c93d3ad761bb129fec75a7f85dc1e9f076cea1d49af3f6022be3ba687296046"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/listing-08-14/src/main.rs:russian",
+        "sha256": "d5f83274c944d6090a43745789f600051b56bbd5643e031bab6758e76cef2294"
+      },
+      {
+        "chapter": "ch08-02-strings.md",
+        "source": "../listings/ch08-common-collections/output-only-01-not-char-boundary/output.txt",
+        "sha256": "243c3ae3b8b8b7187307b145f8f62d5d65e7b8200d5baa31dff470895bbb29ee"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-20/src/main.rs:here",
+        "sha256": "2ea50b415f30169aae8fae30ccdb756ebc4ed7203f0367a24d2d16d8e1353f14"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-21/src/main.rs:here",
+        "sha256": "e936e6836cfba8e1a2088ea3ae9d341c370d3696f4d1e496920604d10f011775"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/no-listing-03-iterate-over-hashmap/src/main.rs:here",
+        "sha256": "868dab46c011f37d6d28e655d80bed0e502b3356ad61733b96e1982104ca3b29"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-22/src/main.rs:here",
+        "sha256": "e32c4d838e2e064fe48bb20380ff681cff3f78f0b2e464d1363072b1bc1ec2bb"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-23/src/main.rs:here",
+        "sha256": "1d8d52e8db7bb2702874e98ed60fc504da3b251f4f8c77c788ff541e9993e2cc"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-24/src/main.rs:here",
+        "sha256": "c4c0d9646ff0bf53d6ea8cb38d4c045566e62d48f6c155c4f2fb167d7368c1f5"
+      },
+      {
+        "chapter": "ch08-03-hash-maps.md",
+        "source": "../listings/ch08-common-collections/listing-08-25/src/main.rs:here",
+        "sha256": "2f557c7abc50a7aab067f81318d2f427d33b305f7b625da344c29191509f4624"
+      },
+      {
+        "chapter": "ch09-01-unrecoverable-errors-with-panic.md",
+        "source": "../listings/ch09-error-handling/no-listing-01-panic/src/main.rs",
+        "sha256": "19c91973f6bad6fec60a0f33a63b9c1ce508d5c3ea831435bf6e673142ad6e27"
+      },
+      {
+        "chapter": "ch09-01-unrecoverable-errors-with-panic.md",
+        "source": "../listings/ch09-error-handling/no-listing-01-panic/output.txt",
+        "sha256": "faaddf334c32c53278d02b0715a43304abbcf260f6a8e80b2fa1f14695a9eab3"
+      },
+      {
+        "chapter": "ch09-01-unrecoverable-errors-with-panic.md",
+        "source": "../listings/ch09-error-handling/listing-09-01/src/main.rs",
+        "sha256": "e827ff2efc31fe9f3aa78acd5c464479a4aacbc0457d62b23d2df176a94a0f11"
+      },
+      {
+        "chapter": "ch09-01-unrecoverable-errors-with-panic.md",
+        "source": "../listings/ch09-error-handling/listing-09-01/output.txt",
+        "sha256": "d01c6a4dfc19e29afbc57fac0b83e0be7ca9ef6f86653e4d9a1b7fc97a0ec927"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-03/src/main.rs",
+        "sha256": "dd72d49a84c1584e65c100f6b129f5e2cf6a0e414d03007bb801ae2e35a402fe"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-04/src/main.rs",
+        "sha256": "d3c365f916c9745b1a44104a1fee4c4445223b4e6b3032669bf5ec5fba4812a6"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-04/output.txt",
+        "sha256": "aaef9a99789fe7f59be34e6ced528a856cac0181b24379e7fdb81bf501522602"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-05/src/main.rs",
+        "sha256": "922043f73ec11ac6c259c50f92779fac21e9d8c82d396df8ea0de1935e717d59"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/no-listing-04-unwrap/src/main.rs",
+        "sha256": "9e90341477fcd891dcb162ffc7457fc2fd81b4d49e7f691c57b5d10f8191ac50"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/no-listing-05-expect/src/main.rs",
+        "sha256": "aa22795a0c398597e9332a6731d2890c838725c8be3fed8f93bf9d4ac642bc8f"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-06/src/main.rs:here",
+        "sha256": "6c5032b6d58ffebc9985104cfee4d486cdb9c83d4c5665020c7e50c36531bb6c"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-07/src/main.rs:here",
+        "sha256": "d8a444b219b0941e9c176a073ae1d9bb5dba7f7d78dcc538af623f2b432d1c28"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-08/src/main.rs:here",
+        "sha256": "6e4b145447529c6bc34eda94c98cbf608aa4d97eb8185a73e0795b69b9a5deea"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-09/src/main.rs:here",
+        "sha256": "ba04a4c2f25faa42bf3e2a5bc1823a10038ec660c276886dc00cc28ecb0e78ab"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-10/src/main.rs",
+        "sha256": "b7a38b89adc165aef2898a9dd62a1038a45ca667f40c05d2b69fcb941f7b7563"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-10/output.txt",
+        "sha256": "3526293037ea6ccd42c71ce902b1b22a791165bdbcc0854bc2ba2e53e9f277c4"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-11/src/main.rs:here",
+        "sha256": "a97d310e4702fccc6ac5d597137b1d02da0af468f83631f4642cb9b9c014652e"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "source": "../listings/ch09-error-handling/listing-09-12/src/main.rs",
+        "sha256": "99a6bfce189f6f287833e73a6e14fbee6ed353c4e648c0fe5d20f62c2c5ac790"
+      },
+      {
+        "chapter": "ch09-03-to-panic-or-not-to-panic.md",
+        "source": "../listings/ch09-error-handling/no-listing-08-unwrap-that-cant-fail/src/main.rs:here",
+        "sha256": "ad6f8a9fa3126a842193da922ee40139a5472e63eb61318174018972c785c42c"
+      },
+      {
+        "chapter": "ch09-03-to-panic-or-not-to-panic.md",
+        "source": "../listings/ch09-error-handling/no-listing-09-guess-out-of-range/src/main.rs:here",
+        "sha256": "c69324d670a8fb106524e6da8a6395480b097838b4785d7e3107e68d3d4abf79"
+      },
+      {
+        "chapter": "ch09-03-to-panic-or-not-to-panic.md",
+        "source": "../listings/ch09-error-handling/listing-09-13/src/guessing_game.rs",
+        "sha256": "19d71176e13529c23afe53e8fdb040050164d3f2e8640902c659391b964a48ac"
+      },
+      {
+        "chapter": "ch10-00-generics.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-01/src/main.rs:here",
+        "sha256": "b7036c7c2b270441edae785e88da5e1f889fa652116bbcef2a1102138662552e"
+      },
+      {
+        "chapter": "ch10-00-generics.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-02/src/main.rs",
+        "sha256": "ef4b43337d15170614d39a2de0776c17fca266db92807d97e5ec98b77978b86f"
+      },
+      {
+        "chapter": "ch10-00-generics.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-03/src/main.rs:here",
+        "sha256": "ce16bdc116712e6ed56c75d2659b6b9422b2636b6dbe455efa21f4368e94f45d"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-04/src/main.rs:here",
+        "sha256": "28dc1ef89963978e165695f04e499b22b3e1e92ff71d720e8c2159d226990fd4"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-05/src/main.rs",
+        "sha256": "1f355bf3a4fbd3825db8ceadf1c02bd641f44088d6bd39e89d2327f005e64c14"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-05/output.txt",
+        "sha256": "015a2ddbaa9082992e599f4928e32a2f228e59d4aefb0cb4e9763beb720309ed"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-06/src/main.rs",
+        "sha256": "bb8370f47fb6b692762b1ac0a07ae3dd45056b9d4c0add176ce63df2454b8116"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-07/src/main.rs",
+        "sha256": "3833867b404e062a2fd0134b4c09ecfc7243788c1426be82056879fcd6ce52d6"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-07/output.txt",
+        "sha256": "afa4f886499ddab356d1bc28705888e6e2b28eec022d580c327d1eb8244522e3"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-08/src/main.rs",
+        "sha256": "07c102bcaf56532bd46c3e87484b47ccdb3b1c3fa7d72ebc418314599cc8562e"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-09/src/main.rs",
+        "sha256": "017195d7f6bb8697c7051072b6c9ab93baadceece6fda62f8416c7623edc649b"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-10/src/main.rs:here",
+        "sha256": "7c852869362ebe465936c499b01c5106290e2ad69540437e3bc69a6423b08e09"
+      },
+      {
+        "chapter": "ch10-01-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-11/src/main.rs",
+        "sha256": "fc3ebdfe65edc8a31025c5ec94f452d2212762f09f00f91a0cae942159cae46e"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-12/src/lib.rs",
+        "sha256": "a550c9b79d5d5c622aa262c78c18260903747e891958a628e1e60ead1cce9405"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-13/src/lib.rs:here",
+        "sha256": "60366a10cbac5da785bb61e1de3a9dc5b03997de3b0a6ce5f1ba5217d75f272d"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-01-calling-trait-method/src/main.rs",
+        "sha256": "70a48ba870995565f9e88cbb8a0cda960608cbd065d7b105926a9aee33584b0a"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-14/src/lib.rs:here",
+        "sha256": "2c1112adb85157cd49044ea9756239bce05bc55585c806442f4c92d9d85231f2"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-02-calling-default-impl/src/main.rs:here",
+        "sha256": "718a2df7451178ff90b6204e7df73152c39eab2944cd37fa6ccd9118a3314d4b"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-03-default-impl-calls-other-methods/src/lib.rs:here",
+        "sha256": "4b06c8f46ba818fb5cdabda6583108150194d32107bac6368bb7cccc11c90468"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-03-default-impl-calls-other-methods/src/lib.rs:impl",
+        "sha256": "c6ae4b35feb36d05a0bdd97012f41b1c6c9ff9ddc6888274a889f7faab7eec46"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-03-default-impl-calls-other-methods/src/main.rs:here",
+        "sha256": "cda4c82ea0cd7d5d220c9b1a95d126bbaff5c57a8c65b67af1d25ee4ad066173"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-04-traits-as-parameters/src/lib.rs:here",
+        "sha256": "2daddfffa02739a044db1f0f70e568c1824fe1cd0328b73eaa7e9b94bb7c1619"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-07-where-clause/src/lib.rs:here",
+        "sha256": "c980586a60e3ccc9791bd2f7052cd3d8ab69c30238af5fa0c3ff6e2fcabfe1ab"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-05-returning-impl-trait/src/lib.rs:here",
+        "sha256": "a86b7e716c26a45875898ad2216d20a1d169de20b507e188ea895359abca7515"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-06-impl-trait-returns-one-type/src/lib.rs:here",
+        "sha256": "37f57d50cfebd40850d652381b4922fa549fa655f486b99ce65b3436cd29973e"
+      },
+      {
+        "chapter": "ch10-02-traits.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-15/src/lib.rs",
+        "sha256": "f029124561eaa307812dc466adcd7fed36186efb7f4657bcaaa9fdb1b15625ef"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-16/src/main.rs",
+        "sha256": "dcaa3acb125987e988649ac5b7ff26e2291d24709810ef94d575dfb8dfb30aa3"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-16/output.txt",
+        "sha256": "ff9eebe66620e6b5ebf16d8d71a0e71e47a79bdc2673164b00b612f317ffbc0b"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-17/src/main.rs",
+        "sha256": "e1fa2bb0741c0648f67f436f6676b06f42eaf27a9f89a3323f6cc2e3f6be9e79"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-18/src/main.rs",
+        "sha256": "ec18dd92b131c60091e8d0fa5b73ec14d2371cf478042415a79148487d174567"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-19/src/main.rs",
+        "sha256": "4d0e959966cae4c864bf8a61819a0b6973c571f13587923dbc0368d6386a6c45"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-20/src/main.rs:here",
+        "sha256": "3316e7471884942b3da34b241034446349cff627b1f5112fe4c4044910668dfe"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-20/output.txt",
+        "sha256": "0fcbe29f1c282ecbb2ef8118bacdd79d3e0de2cd3975a1fb4ca38354bac2b174"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-21/src/main.rs:here",
+        "sha256": "4efcdb34bd8970720ab710c744f91a2cf388eb63fb59afba210ca666b83efdfe"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-22/src/main.rs:here",
+        "sha256": "0b11fcc151d36973989cbcef234c1bf874ff868f5a1713f58823fc3ac64b02c3"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-23/src/main.rs:here",
+        "sha256": "79f71887ff3df949007739b6a3b9c4469d9744ba55c26a702c3a0c7284a40f85"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-23/output.txt",
+        "sha256": "bdac596d2f0b8a530fe4f2807dd559866a650dceb9d48a26fca1c382d1e30f06"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-08-only-one-reference-with-lifetime/src/main.rs:here",
+        "sha256": "ee2b2d2499548998938ce23f5d8ff58b31db34410f51c074b3c50bb28d564897"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-09-unrelated-lifetime/src/main.rs:here",
+        "sha256": "6c8a5fa22b589d4c1b5b22e803529fc279661571dddc1d7b736bf94e11d9a8c1"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-09-unrelated-lifetime/output.txt",
+        "sha256": "1039f8c80d4409f9c3a0f4cfd4e049458b5191f2277b95a0683159f057cd2eb4"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-24/src/main.rs",
+        "sha256": "0425923ab447bcc57a5a75582d35d305025032cb048efde9d2ebdb84e63885be"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/listing-10-25/src/main.rs:here",
+        "sha256": "e3eea516d68d8fa3f3b666f4a232e6388171c56c51e3bd261e2c00d0421f54a0"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-10-lifetimes-on-methods/src/main.rs:1st",
+        "sha256": "605dfbd28ad547404b37a2eb8425dee2cf315e6cf7f2f312ddc8463dd5c7c82b"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-10-lifetimes-on-methods/src/main.rs:3rd",
+        "sha256": "ab63cf75180cbdd3f5bc83c4c48e1fb87d14fef7f11769af46d336de7a1fd49d"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "source": "../listings/ch10-generic-types-traits-and-lifetimes/no-listing-11-generics-traits-and-lifetimes/src/main.rs:here",
+        "sha256": "1b27f1f39d2294da8c1e447d4ffaf986362328bda33d2b85bc15df832228a455"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-01/src/lib.rs",
+        "sha256": "6df00bbddbc812ba33b9585a61123a5ae23fa06e49fef7df243edb3268db5d93"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-01/output.txt",
+        "sha256": "026937bc608f5b2c516c58b6b20703a13e81be874c214cd24cd849ad29aa63d4"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-01-changing-test-name/src/lib.rs",
+        "sha256": "4419ac18b66a73532b85900b7f09304a048b73dc8fee6d41e1000d64223c2e6b"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-01-changing-test-name/output.txt",
+        "sha256": "a73e20b537b67a823d36c830719048dbce9c07786dbf6376edd2cd1cc629b6bc"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-03/src/lib.rs",
+        "sha256": "7cedabfdf6c4fab9a98d06d99ebd3b0f76c19e8a2a17de1a253ed198e6134fe4"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-03/output.txt",
+        "sha256": "5581e53298cac8cf6685bb16ee09cc1e12c09bb453a0786c8bef3c964929b706"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-05/src/lib.rs",
+        "sha256": "15d714763aa441d35a35b9185a7dc099f5f132942a831d5fe6cce5e4c6eeaedb"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-06/src/lib.rs:here",
+        "sha256": "0784ec26c53ff9edd019a02785899c1da7f8a8bcc4fc5b93f8e9b85c37827713"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-06/output.txt",
+        "sha256": "874e4bd067b3b8d368849dc33b70178b2e2f308b78ca0c7bb284d56a06ae4050"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-02-adding-another-rectangle-test/src/lib.rs:here",
+        "sha256": "4cb8817f6f92bce25bdeff6eb1dc9aaeb264750aac37ca1283d8874ff6167631"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-02-adding-another-rectangle-test/output.txt",
+        "sha256": "dc05d91ab469133866f15d88661d8246a2aca21d702de9ffdb01898af60b1960"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-03-introducing-a-bug/src/lib.rs:here",
+        "sha256": "86ac7eef77d9f5d769163a8ff04db3b40d82d28306629e43e086175076aaeeb1"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-03-introducing-a-bug/output.txt",
+        "sha256": "98d482868d599138c5065c7b53794c660272edb9b83245ebb250e82584a77a18"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-07/src/lib.rs",
+        "sha256": "4ba26ba40b81c3dd4cc916f32f68f11e7d563f406addbb6d9af06fa40beae8a9"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-07/output.txt",
+        "sha256": "2cd6e97f2df3dbd42a421ec821ab0311bc094d4ececead9cc3f8f43c90bd4db7"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-04-bug-in-add-two/src/lib.rs:here",
+        "sha256": "fb44f0c7a2eab73587e938c4288a163f65e6afc41a1d6e81fb3d34f0974189a0"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-04-bug-in-add-two/output.txt",
+        "sha256": "de2a59fab02d7891827c9e5c22e96e454272693d7c47fa33451b5bb165705241"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-05-greeter/src/lib.rs",
+        "sha256": "914897b1b4ce4daadf1dad8887ddc45b3997742ac194465c7e596d7f87c1a497"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-06-greeter-with-bug/src/lib.rs:here",
+        "sha256": "31c8529f1545be5460238f0c232c1510a7e033aa14c19a684db071b2e98ee184"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-06-greeter-with-bug/output.txt",
+        "sha256": "3a93d8933df67980c98aafcd1e4bf38deb8bd826d50392934420bcd96dbd1db1"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-07-custom-failure-message/src/lib.rs:here",
+        "sha256": "6247f54a134af8bf749ea975d3d0723fa0e27dbbb2a8f6d8faf3341cbf9f4ccd"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-07-custom-failure-message/output.txt",
+        "sha256": "2c8061797d432759c4493db124d40867f0282dd03bc49b378971b7b90763df99"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-08/src/lib.rs",
+        "sha256": "07cdd11ce5180d71ee7e1bf0685d2137d24d1ff6acec3c367ea41b624c8ae815"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-08/output.txt",
+        "sha256": "b8b2902a216cb6a84003f55a3b5f4792522b9989dcbbe02466d7f1d878bb580f"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-08-guess-with-bug/src/lib.rs:here",
+        "sha256": "cfb2ef2f383dddfc7ef7ad472ee3f33455c931d4864c34f035a770dafaed455b"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-08-guess-with-bug/output.txt",
+        "sha256": "0c386bfae8c32855f9c3535cdfa204ff7317e3bc63aa413b77a5ce044e8c0064"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-09/src/lib.rs:here",
+        "sha256": "b9030e76a00624da4fdd293cb01461819c927ce67f07088270ef50840e0ecee2"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-09-guess-with-panic-msg-bug/src/lib.rs:here",
+        "sha256": "c0bebcf65106ba7b874018ee17cbfed7fe56a918aace7a01dee25dd0ed54d973"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-09-guess-with-panic-msg-bug/output.txt",
+        "sha256": "3735e55d9dfd973b2dbc3661304de4a1b19e4b546d8a9b922a6f7dad7db0f0a3"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-10-result-in-tests/src/lib.rs:here",
+        "sha256": "a90e8281d608c46b3d01b27f47bd5ebbc877bfe700e711efea9c5957ac0f1eb1"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-10/src/lib.rs",
+        "sha256": "413c522953c02d41cf14c38232105940351e0a86f0a69e05d7fa7e101062994f"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-10/output.txt",
+        "sha256": "8089609614cfe8272cbb1001c8f0d6557dc95ae3f9d8095cb2ed76186e98a9b8"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/output-only-01-show-output/output.txt",
+        "sha256": "c30bbfc958012438a0ba8820a083320d0dd4c589e4e925e577861a46fa8e1dff"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-11/src/lib.rs",
+        "sha256": "468ff92c902cf3265765bd0cdf103914c8fe06de82828adae3fc6284c866e28d"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-11/output.txt",
+        "sha256": "f203ed9fa5223fcf6b60d9ea181b29d20fb773428fd65bb54e10cfc791ce31d6"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/output-only-02-single-test/output.txt",
+        "sha256": "8fd43f1786fed465661f235945ec73aca73e601898f8bec31c701170deed0523"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/output-only-03-multiple-tests/output.txt",
+        "sha256": "44b6da57cd0d0e3b08617997a6a287f6dacdb33cd971ef07c3b22eae615fa249"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-11-ignore-a-test/src/lib.rs:here",
+        "sha256": "0e24f4a0e548bf93a0be174a78a11caaff129f79c7a457d0a8a9fb497c9347f6"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-11-ignore-a-test/output.txt",
+        "sha256": "dcd77996079eaa27095b641f06ca2dff2d648cbf44e508dddeba40cb5ff2f86a"
+      },
+      {
+        "chapter": "ch11-02-running-tests.md",
+        "source": "../listings/ch11-writing-automated-tests/output-only-04-running-ignored/output.txt",
+        "sha256": "3a90b26e4e524d2bb9c70dc99115dd5b74f70a4459cbe4ce8856d2a329884b4c"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-01/src/lib.rs",
+        "sha256": "6df00bbddbc812ba33b9585a61123a5ae23fa06e49fef7df243edb3268db5d93"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-12/src/lib.rs",
+        "sha256": "0732a12650fbf083203b4bb11b93a728008198729539c252a1ae3bea694c6fd6"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-13/tests/integration_test.rs",
+        "sha256": "e8055e39c07350c1c72f398a14c347f2daec200f91765d388e14cf59c0c4fdbb"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/listing-11-13/output.txt",
+        "sha256": "629c3fbef98e13a05caf3655989cd05ebd1537df2ffc41c06b6455b068896103"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/output-only-05-single-integration/output.txt",
+        "sha256": "3246f73b35453c520684ac9fbd3ea54e3a25e2518aca9ec754bb9d97afe3767a"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-12-shared-test-code-problem/tests/common.rs",
+        "sha256": "b02dc22567453740330f17ad235c4e1c35e838fab9ada33be6912c40bf2bb6fb"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-12-shared-test-code-problem/output.txt",
+        "sha256": "24da0d89c80b4b2cca061b2989d039a2b095d1737d52ed215171ec47e0b841b9"
+      },
+      {
+        "chapter": "ch11-03-test-organization.md",
+        "source": "../listings/ch11-writing-automated-tests/no-listing-13-fix-shared-test-code-problem/tests/integration_test.rs",
+        "sha256": "036c519ee7ae9a9a47e3996a8403062527713bf888d5641e800b6e5756307faf"
+      },
+      {
+        "chapter": "ch12-01-accepting-command-line-arguments.md",
+        "source": "../listings/ch12-an-io-project/listing-12-01/src/main.rs",
+        "sha256": "ac0f5d6f5ac202ceafe11f1b9d8476229629351cc19a513764c3f987d27214c9"
+      },
+      {
+        "chapter": "ch12-01-accepting-command-line-arguments.md",
+        "source": "../listings/ch12-an-io-project/listing-12-01/output.txt",
+        "sha256": "74997477edb54df679229eff50d1129e522f7ab9b6b3c4733e093c7a2451203d"
+      },
+      {
+        "chapter": "ch12-01-accepting-command-line-arguments.md",
+        "source": "../listings/ch12-an-io-project/output-only-01-with-args/output.txt",
+        "sha256": "4418f52ad0c6afe66b235ed7d77086abe067b1bfa0521cad6359fdbc7d21c8fe"
+      },
+      {
+        "chapter": "ch12-01-accepting-command-line-arguments.md",
+        "source": "../listings/ch12-an-io-project/listing-12-02/src/main.rs",
+        "sha256": "56d8a6ec00acaa833130e681a11542879c162220cd759d80aada5752d1af6fbf"
+      },
+      {
+        "chapter": "ch12-01-accepting-command-line-arguments.md",
+        "source": "../listings/ch12-an-io-project/listing-12-02/output.txt",
+        "sha256": "3a1d106319b2c41c5ef56a0f9d50941e38b46c854ad3c17e771f2786f54b8cd6"
+      },
+      {
+        "chapter": "ch12-02-reading-a-file.md",
+        "source": "../listings/ch12-an-io-project/listing-12-03/poem.txt",
+        "sha256": "98addc2eadff65b728a75a393cf56828b4aa71bb905f7cb6391e2977c281d938"
+      },
+      {
+        "chapter": "ch12-02-reading-a-file.md",
+        "source": "../listings/ch12-an-io-project/listing-12-04/src/main.rs:here",
+        "sha256": "246884a584d9ee037c674c28f16a9ac89cf7aa316cc881d6f606489cd79fcbc5"
+      },
+      {
+        "chapter": "ch12-02-reading-a-file.md",
+        "source": "../listings/ch12-an-io-project/listing-12-04/output.txt",
+        "sha256": "f447a95ead2e61b4acaf5fecef6e45803b2ed212820050e50f57d4d2345fe367"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-05/src/main.rs:here",
+        "sha256": "74cb75828d1017bf3faa086c3f53be742f0b3c74e3a2761e4da74026509c1003"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-06/src/main.rs:here",
+        "sha256": "b6b2ec9c06968ee3e7dfdfa5fa753e417325cbfc4ba5f824ff1185bdc5456bd2"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-07/src/main.rs:here",
+        "sha256": "0d5b1cbff7f90a625c9bb69f4093aad5a7baca81c26af8be8de56361af0c1fbb"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-07/output.txt",
+        "sha256": "83fcb70090e7414cc03d04cb3627bac975249c4a3638201b3a0a2f4bec339ab5"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-08/src/main.rs:here",
+        "sha256": "0f75dfa4ed77bc8be53a514de5b21f6b0f3a93ffcb8f8b965ab5cf8c7e2d6957"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-08/output.txt",
+        "sha256": "e10360fdef7870e0045b8631986aecfd7b58484e274e1cefb4deacbf7dced890"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-09/src/main.rs:here",
+        "sha256": "0946e1a29c4f3007219f64a3a758d4de4c6f35cdac800618861e0f86b17824b6"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-10/src/main.rs:here",
+        "sha256": "9c6cfffcc6b9e65db927b10977fb4131489187922d4445a1404eee943d51132f"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-10/output.txt",
+        "sha256": "a317c9538f00fa6a7ca4c0dde6483227e828b6d7978163a21e46b35a088973b2"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-11/src/main.rs:here",
+        "sha256": "9621326ad7fd21103d6380e3c33a150b244e3d84e81e80c721cc42d87a2baefb"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-12/src/main.rs:here",
+        "sha256": "0128c36ca979deb178510e0beb859df38b2e528100916749fb141eca49452623"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-12/output.txt",
+        "sha256": "24375b016d6ab422a9447b92bb15585ffabeaf25b6a0aa8bdd75dba0b35d9c17"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/no-listing-01-handling-errors-in-main/src/main.rs:here",
+        "sha256": "798639270361af9fe2de8308e93b63f0a1a9bda3997fc7a37329dfaea129989c"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-13/src/lib.rs",
+        "sha256": "16cc502b9ec702fe336a667724f3c1fc1741da5e9a2e9db0c34f0fe630107e08"
+      },
+      {
+        "chapter": "ch12-03-improving-error-handling-and-modularity.md",
+        "source": "../listings/ch12-an-io-project/listing-12-14/src/main.rs:here",
+        "sha256": "41f8600f61d16a7ccea636379589d6e13b2c3cd50a2a62e497a860605ec9ef32"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-15/src/lib.rs:here",
+        "sha256": "ccbac704aa201775cdfddc7a141b9952efae36ce3ef9718a9269be9d0a90dabb"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-16/src/lib.rs:here",
+        "sha256": "e3b0a974e3d058fe5e8cada1130c8b6143c9ce78502518c7776bd6eb5b23f83f"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/output-only-02-missing-lifetimes/output.txt",
+        "sha256": "7db3ccdae777fa941141f5268c67e0474098987dd234d2e18ca446e8a6854e10"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-17/src/lib.rs:here",
+        "sha256": "8e201a35ec4ce100708845541c712bdc5a359254756690c739446e2520ae3406"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-18/src/lib.rs:here",
+        "sha256": "6b1d792c50322a6d510a4a10e57fec2151d8ce1d0fa67ae7f0f408a713c9537a"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-19/src/lib.rs:here",
+        "sha256": "9f725f9321e325328c308ecf69f36fc4a32b03101b1822f09c5107a00e3e3dba"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/listing-12-19/output.txt",
+        "sha256": "7c4b394d4dbd0d1c66af3683d0b982c7e03ce364a8c8f17479ce3fe8016999b7"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/no-listing-02-using-search-in-run/output.txt",
+        "sha256": "bfbc7e544047a6a1b574459f612f61a90eb995043d38f2b517259490fe097c82"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/output-only-03-multiple-matches/output.txt",
+        "sha256": "9ee6ca4001bcaf0134131fc06fe31af8e3fce517dd79ddeed1c31a0e26588a46"
+      },
+      {
+        "chapter": "ch12-04-testing-the-librarys-functionality.md",
+        "source": "../listings/ch12-an-io-project/output-only-04-no-matches/output.txt",
+        "sha256": "2bd704851b165fca4d573aff84512c236a6369af88c0e244fe38d9a332ff278a"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-20/src/lib.rs:here",
+        "sha256": "61cd5da7df45e2833bff4b96c6173e511b212586787fcdeff6d4d74df2385aee"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-21/src/lib.rs:here",
+        "sha256": "415b3d608f0a492360cc4f2a6fa4af450be0e210132541f6e707f23cbbabf9ec"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-21/output.txt",
+        "sha256": "2804297a369204c71dc70219d840ee99e1c550d615f90ac296392f8bf2361e30"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-22/src/main.rs:here",
+        "sha256": "41f6654ef888d662437f797c1ffc2813a4c3162ac37c247473c0c90b1c6f86c1"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-22/src/main.rs:there",
+        "sha256": "58569162d094bde7b74057d19158cbc97135b70d9caca75924fca9a488d33e6b"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-23/src/main.rs:here",
+        "sha256": "864a21f55efcf65e8eb9e3076e9477abff45011f42188ac62ab57f578c765b3f"
+      },
+      {
+        "chapter": "ch12-05-working-with-environment-variables.md",
+        "source": "../listings/ch12-an-io-project/listing-12-23/output.txt",
+        "sha256": "03a9fc6f9ac236c16d2b96142bc85c085d96237b951992135fdc8be581424c37"
+      },
+      {
+        "chapter": "ch12-06-writing-to-stderr-instead-of-stdout.md",
+        "source": "../listings/ch12-an-io-project/listing-12-24/src/main.rs:here",
+        "sha256": "3aac880880511b55706d9b4afb4d78a9ec2f83f28f92dfd716a5ebaf41fac06f"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-01/src/main.rs",
+        "sha256": "3f9ef18bb34bc203a9f4cdcc4b7ac3d72ea186027044d0dbe4e54624d6c28788"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-01/output.txt",
+        "sha256": "ef8d8058f6aa68cd2b156fe1d0eae1f254c16f886e7996708e7473eb6259f09f"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-02/src/main.rs:here",
+        "sha256": "a0fa3082df65e000f10241c617bb91b2ff48de8102f133172da1330757c119fe"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-03/src/main.rs:here",
+        "sha256": "ae3a9b85ce71e63615efee4c48779834fb05468b7934d6ddb5ab01473c30aaec"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-03/output.txt",
+        "sha256": "20e15015d4d4f92682e67556eb6b3dcbbd32e255db504d278f609fcc9996103c"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-04/src/main.rs",
+        "sha256": "e8da4e1b43c5784c333973f44137954f11c7340496f3f317f43d064b640bb055"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-04/output.txt",
+        "sha256": "1df2d8f8d7cbf64d68f17129f061fc139477a556b1e1ae096d1d14bae088853e"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-05/src/main.rs",
+        "sha256": "4f4ac7e74ba33051ff5767ea1d5f72ddf67a6b290811ca5a777401bb62c44f09"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-05/output.txt",
+        "sha256": "fa456d219dbb23eb711355d3d65bd2604fc381129164245956110f50a2ae3d0f"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-06/src/main.rs",
+        "sha256": "93358f20153cbfe2d2ac7e286bda043048659f359bd38613510fd841ad68f12a"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-07/src/main.rs",
+        "sha256": "96d73ad9862dba3f60b61849c4793025f7ae9b4c68be98dcfe67f56cd19d9f59"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-07/output.txt",
+        "sha256": "426e2e99f71ffe890400871b372d5322db4bfa0a35f624c267473a4c3af88b0f"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-08/src/main.rs",
+        "sha256": "d4a1e2a4719f3556a64eb2c6b176291fd1a078b4d2a9a1351a503d916290b1ff"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-08/output.txt",
+        "sha256": "1c5906375feda79d4cd887af6524051184d5b972b5431f5e4d4d7ad226e22692"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "source": "../listings/ch13-functional-features/listing-13-09/src/main.rs",
+        "sha256": "5998ab3c11e29303bcad692e1d437186f688d16f01075bddc147b2aab9013656"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-10/src/main.rs:here",
+        "sha256": "ffff9bc257b11b832148e389c14217e6eab7dadd7e610a1985652b90156bc94b"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-11/src/main.rs:here",
+        "sha256": "744e08a5085097dcfac0d042571e68830586be1c8098e9f0d51abb69d2194526"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-12/src/lib.rs:here",
+        "sha256": "0d8d38a3950bc54e1376c12bda5cbfebcc64da09c617fc0f5308b0179f92513b"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-13/src/lib.rs:here",
+        "sha256": "702767842e1d2209672d4dad79c90bb896bfc3822d42dd93a90c70fe473ee3f6"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-14/src/main.rs:here",
+        "sha256": "2722d3890b3746d5826a0cad533fc325466a6cf75889c7065fb8671d257cb00e"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-14/output.txt",
+        "sha256": "7dceccb7e1ebadff1f3188c11c401d68fa9dcffe89b61d64e4549a7835acef00"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-15/src/main.rs:here",
+        "sha256": "988635557375bbba5d4c88dc31495c63c38e8ea2b083f5fe17eae28b048298e8"
+      },
+      {
+        "chapter": "ch13-02-iterators.md",
+        "source": "../listings/ch13-functional-features/listing-13-16/src/lib.rs",
+        "sha256": "da1a425d94f9bb8c5f84fd48a43ae5b72d0b6579a13e27097c55190a8b8b36d3"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-12-23-reproduced/src/main.rs:ch13",
+        "sha256": "864a21f55efcf65e8eb9e3076e9477abff45011f42188ac62ab57f578c765b3f"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-12-24-reproduced/src/main.rs:ch13",
+        "sha256": "1ccbafb7d8628041b4a4facebfc1eaf008e329bcc36307a1abe4647a157a0038"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-13-18/src/main.rs:here",
+        "sha256": "1426304c28eda2251864234cdb7878f964ab7fb109fa560228964b3c54270ad1"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-13-19/src/main.rs:here",
+        "sha256": "9d68ec6b71eccddb0489c9de105d66dc6318c9fb04a792674b107ad371fc203a"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-13-20/src/main.rs:here",
+        "sha256": "836dea89650b60b06d7ec0d20b87acf7eda36a388923ead723034d243d4737b0"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch12-an-io-project/listing-12-19/src/lib.rs:ch13",
+        "sha256": "9f725f9321e325328c308ecf69f36fc4a32b03101b1822f09c5107a00e3e3dba"
+      },
+      {
+        "chapter": "ch13-03-improving-our-io-project.md",
+        "source": "../listings/ch13-functional-features/listing-13-22/src/lib.rs:here",
+        "sha256": "81907cc8448d1e283547da56d99589994c0ee4c9dd11166d07ce5f2d6019c4ac"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-01/src/lib.rs",
+        "sha256": "acf88e0bd74503d7f1d31a01bb288d6c6c26b86ea2726cd3d9b4bce07ffc2fef"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-02/src/lib.rs:here",
+        "sha256": "984b01acc0bb9a4be24a1a22cb188c13c8cc64b61d45366b1e563489b032618f"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-03/src/lib.rs:here",
+        "sha256": "df657804b8cda24525727ddb8f2bc68f8e0889e54f30ccc6301aa2c7d1ee06e4"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-04/src/main.rs",
+        "sha256": "ef58bc4cc6bb6bd5399e21fc447e440df35d47ef4eaf9b0828677945fb941506"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-05/src/lib.rs:here",
+        "sha256": "d7fefa81d5476407bf7b0b96f68c6bb9df43bb5197db9089f468b9326b0ee9c1"
+      },
+      {
+        "chapter": "ch14-02-publishing-to-crates-io.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-06/src/main.rs:here",
+        "sha256": "5a9b755d0d51e3629da71ab10843c84fd2e3f44c5396018c9816585128a7cb39"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-01-workspace/add/Cargo.toml",
+        "sha256": "f743a597595b9b2033f7a3b74cff793f25cfabca3821eae00da5aaaa99c33e6c"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/output-only-01-adder-crate/add/Cargo.toml",
+        "sha256": "f53cbc9a63f63e3b2306e43576720e3ed5bfe4bc81b5067dab5779650ffce3a3"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-02-workspace-with-two-crates/add/Cargo.toml",
+        "sha256": "64853ccf118fb422c917407b22b247bc51246f19a324a5d352a9bd21ae6c1a15"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-02-workspace-with-two-crates/add/add_one/src/lib.rs",
+        "sha256": "7990aeb3820d44ea14f6736e57eb77720a077bf62d6f84fa80312b98f8f47c98"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-02-workspace-with-two-crates/add/adder/Cargo.toml:6:7",
+        "sha256": "4c0069038270949033f1ee27532b01220c58d283ae3cc26fa9271f4933039061"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/listing-14-07/add/adder/src/main.rs",
+        "sha256": "ab1c37c840dc332e11710e28a68f940a7d3edb86252279a948f3de42be1bbcf7"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-03-workspace-with-external-dependency/add/add_one/Cargo.toml:6:7",
+        "sha256": "8075de78bdb23206aa4625d83ee762471be7a8a17de1376e14ccc082fb74a2c6"
+      },
+      {
+        "chapter": "ch14-03-cargo-workspaces.md",
+        "source": "../listings/ch14-more-about-cargo/no-listing-04-workspace-with-tests/add/add_one/src/lib.rs",
+        "sha256": "117b628b5fd5d195686c4c5287d5a21f9b2862bbc00ff5f36a949942adbbd98e"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-01/src/main.rs",
+        "sha256": "b3d87f6b17f622b4c3993b0c918486ec0799bcb58b85643a161f5c8585e74812"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-02/src/main.rs:here",
+        "sha256": "4131d3b7b4a05b3b250c88d5b37a21b1a82c661dcff45e0932c304e97b3661b5"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-03/src/main.rs:here",
+        "sha256": "c143e7cf50e892d9abeb4699dea4365c847c84481eb9a71c80cc45fde1e7348b"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-03/output.txt",
+        "sha256": "4225475263d13e75578665ff79865158bafa1bf70d3a31b86de48fac774e71e1"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch06-enums-and-pattern-matching/listing-06-02/src/main.rs:here",
+        "sha256": "4f0054637bdd720fe7d4ae8f49dde07e3e8dad41a2b42881b6cfe89cbccfce9a"
+      },
+      {
+        "chapter": "ch15-01-box.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-05/src/main.rs",
+        "sha256": "74d2142683c675291e3e72a55dfc197dc425e9077330b53ee495d4755d46323d"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-06/src/main.rs",
+        "sha256": "a5bb63f3777720b4f96576f9322d9ea8ebae49fbfe638a4fcdf1552be7c73f1c"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/output-only-01-comparing-to-reference/output.txt",
+        "sha256": "5f4d6eb0a5b6d90c00b948c995ec5924de09fc8fb10e06b0f2f089a2f69a65fa"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-07/src/main.rs",
+        "sha256": "3be69d5e4e1cf17905d12062e5cc14779b11fa390e86a1955cac81d7df8e281b"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-08/src/main.rs:here",
+        "sha256": "14a1e1ebdda7c280459ed1cc43505947edbd9e3c19617db10858110c3010ae15"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-09/src/main.rs:here",
+        "sha256": "de9153e1ac8931a49887c903795c07cbf073e4da9b5413c865482db32043695f"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-09/output.txt",
+        "sha256": "3079d98a66d7f16ab35e966b3df3a7d012da92120b94d87fd96a7015cdaf6167"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-10/src/main.rs:here",
+        "sha256": "ad3092b70a4d7951c52d4a2aa511c44ee2d693d03beca9d87cc4057b98975161"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-11/src/main.rs:here",
+        "sha256": "604a658c2a6f60ef8a87617efd937edf1ac2ad1d85cdcb08d7d0b9ba1f0a6589"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-12/src/main.rs:here",
+        "sha256": "97a0d8dc8089c05396dbebf1575256ca978e272517149d37dc662165be1b9542"
+      },
+      {
+        "chapter": "ch15-02-deref.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-13/src/main.rs:here",
+        "sha256": "3460cc4b8c30e8ada41431ed83017573c6915ee351e6972b8510adf16de73978"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-14/src/main.rs",
+        "sha256": "945d6ac328656922c885f8c573bb65c4c1273277924b4e72236e673bd29952ab"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-14/output.txt",
+        "sha256": "796dbbae618a3ccc7c99aa0fa4ca59886248874196da4a8b9e706aa91d73eaa0"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-15/src/main.rs:here",
+        "sha256": "279a05a2fc8b1e3597a2968c4275616476725e3967a24d844deb560fd26bedc9"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-15/output.txt",
+        "sha256": "84f61266f47b572399b52a1509bfa3994553503d9b341acfea747f32cbb27956"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-16/src/main.rs:here",
+        "sha256": "5c42701f39305a67edfdc36b218939e0db752ae71d07b31290e31c3732728aae"
+      },
+      {
+        "chapter": "ch15-03-drop.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-16/output.txt",
+        "sha256": "a60de714d0052a4d7bb7faffd659affe73f3db7d0a7c22e48320d4fc7460e641"
+      },
+      {
+        "chapter": "ch15-04-rc.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-17/src/main.rs",
+        "sha256": "95ea6ea45ba506d7f5499a2c86f68500ba0f0aa2b3cd9319113f0f2bcac1c051"
+      },
+      {
+        "chapter": "ch15-04-rc.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-17/output.txt",
+        "sha256": "d037564cd94fd6c9df03bf3d2c54182969d0752c2dc05cf614dae2319d6758f6"
+      },
+      {
+        "chapter": "ch15-04-rc.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-18/src/main.rs",
+        "sha256": "9827bd5c4348e57f5449fea204526e8b76102875242e96a0953fa9acb4511e9f"
+      },
+      {
+        "chapter": "ch15-04-rc.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-19/src/main.rs:here",
+        "sha256": "37d65aecca072aebbe83b869240b1d6b6387c0af90f8b7525e2dbfb7901c6edb"
+      },
+      {
+        "chapter": "ch15-04-rc.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-19/output.txt",
+        "sha256": "ec30164d9fe9df51b256bd13ca34bd94050787dba5a6e835aac2104b893609e6"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/no-listing-01-cant-borrow-immutable-as-mutable/src/main.rs",
+        "sha256": "c94c8def2c93b52672ed117921a620ecd4a609e1d6baea1c7258b97f6c3fb0be"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/no-listing-01-cant-borrow-immutable-as-mutable/output.txt",
+        "sha256": "f49ff8e62cb0e82c8e3b1401450350d5eacc67b01730ce5df74b0a73c28ceccd"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-20/src/lib.rs",
+        "sha256": "a7f940239daa7ddda994cd56b44e6a8d868cc31d05ea957eb97ff426eb51bfd4"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-21/src/lib.rs:here",
+        "sha256": "015a675575c43172e1212b6a389eb87df4bc833ec580132eea24f950d44b7c7f"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-21/output.txt",
+        "sha256": "64757b030343facf5c2092abd42fbdc20bc37ddf0d2ba5245572a01a9d8bc132"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-22/src/lib.rs:here",
+        "sha256": "5fb6141a64a2dc23ac658f6592252854dad2c299fb207b5bd91e50eb67faaa85"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-23/src/lib.rs:here",
+        "sha256": "953fb2f6d5b8bbf5dbbc38a990d7059dabb35cb243119d1910e77f3094e07ebd"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-23/output.txt",
+        "sha256": "b1e69cf38c88b5e7559b2b89669aa4caf53255ae256c2a45cf07c3bbb974136d"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-24/src/main.rs",
+        "sha256": "196a1b94fde3c08d8cf7e963255675832a380b8d766a3c92e276ea5fb6a5e999"
+      },
+      {
+        "chapter": "ch15-05-interior-mutability.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-24/output.txt",
+        "sha256": "1bf4386bd65b976944444c1fd05f6e6aeb1ad090ebfcfc301669c71b277c47d0"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-25/src/main.rs:here",
+        "sha256": "65ad18f158065881af997268a233eb59fd05e1d9086b0783bf4ae2424d6c6d35"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-26/src/main.rs:here",
+        "sha256": "e20389205dbb19a103b72bde82ee941ec082c2806908e4d6131a7c91b0c28abc"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-26/output.txt",
+        "sha256": "a3f221203a8efb7318bc83e3900a340b30d48cd4a6b1efb7e4ddebdd17ff56ab"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-27/src/main.rs:here",
+        "sha256": "bcd83f7f6cc6ccff2398ace081029dfee0263ef3704ab7a4eab795de081b974c"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-27/src/main.rs:there",
+        "sha256": "61bc9320c9b5a6585c4109bce01956069bbb5956654c559f4bdec3b27e332c7f"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-28/src/main.rs:here",
+        "sha256": "d155166afe9289a85149d1ce9594eea7fcde4560aea527ebe726220e4fa18ed7"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-28/src/main.rs:there",
+        "sha256": "79c8a2229c14d46d548a986ecda511d9d14059de2e68ac50318b1ecb880a6302"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "source": "../listings/ch15-smart-pointers/listing-15-29/src/main.rs:here",
+        "sha256": "e5d0a874287acb03c42597a14a9114ce8d0c581d3b5ef2a80a1941c388b4ab20"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-01/src/main.rs",
+        "sha256": "ce02700f084008edd19d9236d7f4691e153c1a7308d2ccc1cb2817ff68cbf745"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-02/src/main.rs",
+        "sha256": "09eca46ef34d20a5abf235be49ef3f374f757ca83157af3b00a55a786b20d5aa"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/no-listing-01-join-too-early/src/main.rs",
+        "sha256": "3dae6cb32ff40d886fd2037abde0fbd6c5131e5de2e4881ba763342dd855900e"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-03/src/main.rs",
+        "sha256": "264912e27efc8ff65b0e9598c60a77a3d6c263baf8eb00efecf8ec08fe74f5ca"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-03/output.txt",
+        "sha256": "68cb909d7e20b68d7f7dc34cc9bee1c32060b7fac700929a90bb7198d84dfe73"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-04/src/main.rs",
+        "sha256": "d87479edb4dc9b0516c2187310152dcaa019d30ba067ad7fb41b596178a8a3fa"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-05/src/main.rs",
+        "sha256": "1c2a48dbe713757bb7a6bd7f24b4377fa97289f21ed50260c1ed5660bce7ac6c"
+      },
+      {
+        "chapter": "ch16-01-threads.md",
+        "source": "../listings/ch16-fearless-concurrency/output-only-01-move-drop/output.txt",
+        "sha256": "0e9ed355ab180bc91115f699db31f3f09ba94b3b7a8f63428a44c253e5b5580b"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-06/src/main.rs",
+        "sha256": "14b20cb2758f89ec7dac9bc4cde663a2a99d29266fbae20e7f5662c73fdc4a45"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-07/src/main.rs",
+        "sha256": "f00b23131ba0279134ca5ccf3aaf3a5c284cfe3d5912092d9df9c3316f452f10"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-08/src/main.rs",
+        "sha256": "d17ac6e68289f33bf416a83e3c68b6b968f1dfec3d93c115bfd3d1739cfb87a9"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-09/src/main.rs",
+        "sha256": "7486c31d770ff6d5af3db49c24f1a83ba5345191d9772db08b4591a3a06658ea"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-09/output.txt",
+        "sha256": "c913ef361f9dd44321a64fbe75329990e776d7a5729a33c76eb302ff761b00ee"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-10/src/main.rs",
+        "sha256": "e266296835e34506a77841b3d7f004b9954ac6d37fc2049811fb6b9fa14563f8"
+      },
+      {
+        "chapter": "ch16-02-message-passing.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-11/src/main.rs:here",
+        "sha256": "54fdae1b77efdd6ebdc27366d48a5fbcc9c7346aca94b88f4369bf14a4190200"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-12/src/main.rs",
+        "sha256": "2f7411831e43ebbbab43f017fb2a4c13b7a017425b0924d25e5de947c407cb60"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-13/src/main.rs",
+        "sha256": "0669cce0403e609d6914741c44b8ba6eb8c14d374d623b15c7184d5e2f647e8f"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-13/output.txt",
+        "sha256": "68dba2582634635a21e4203523e51fcb16f176c555203b28a5408da4559936c8"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-14/src/main.rs",
+        "sha256": "246ab10e73022e427471e9ce3f5124df7d1a6c9cef4d5e4a989d705ded445bab"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-14/output.txt",
+        "sha256": "c63be4cd93027fe599e11c0577f85f917172bd2ebeb9b2d67d882a0e6ffee1e6"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "source": "../listings/ch16-fearless-concurrency/listing-16-15/src/main.rs",
+        "sha256": "694a24b3c66933aa914383b8ad7aa1d679cba181ddea2b81e0ec6c6d6d3a444c"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/listing-17-01/src/main.rs:all",
+        "sha256": "8573c975a6c9ae1e1209f2ab08d374cb98c0bed2663b91f92f992aee43f86e13"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/listing-17-02/src/main.rs:chaining",
+        "sha256": "57038af8b255f156f9f868cd3c981cc44d564f9bc86d3aa286eac1b857aff702"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/listing-17-03/src/main.rs:main",
+        "sha256": "ffcb514660ffa1f5d0efab60562833e8de946dac61eacaeaebccbf9837ceee6b"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/listing-17-04/src/main.rs:run",
+        "sha256": "8563cf4ce59769db981a7cb8812e0cc77e907950b5bce774a4d896b64bcf2f33"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/no-listing-state-machine/src/lib.rs:enum",
+        "sha256": "cda532126d821eaa5c61508100c522d2cbb17e82893c6cf91f55e99a1087bd35"
+      },
+      {
+        "chapter": "ch17-01-futures-and-syntax.md",
+        "source": "../listings/ch17-async-await/listing-17-05/src/main.rs:all",
+        "sha256": "f440cf61761716c95adb966f8839850f8ed96070f33ce358608f375c8ca14f6a"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-06/src/main.rs:all",
+        "sha256": "55d18f2d5083d971d6e9fefda1fcca952c7a64e9693719c46aad0f419b1dbe26"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-07/src/main.rs:handle",
+        "sha256": "d82e35a04e7d9d896afd45f7f5c589ad19aa76b8e7354ad92d39639ae6650bc1"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-08/src/main.rs:join",
+        "sha256": "f971218448429dec0a990222999b5401634edce6f090282c54499e84c43acf13"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-09/src/main.rs:channel",
+        "sha256": "0ed965303f798e97774439841b28b63618c5429c34c0f15b9058fae9a6675984"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-10/src/main.rs:many-messages",
+        "sha256": "f95fa4dd00bd81749fba2e01884e505138ae34e83255e7e1ae783bcfab959d4f"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-11/src/main.rs:futures",
+        "sha256": "918f07ec244f66a5d0119ea90adc62770680a5641ad767f0822657fc7801b721"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-12/src/main.rs:with-move",
+        "sha256": "815dd3a686e3a2cb2f609c7c090335dcd8e1b71124d3e2391e7ea6e92b5221f1"
+      },
+      {
+        "chapter": "ch17-02-concurrency-with-async.md",
+        "source": "../listings/ch17-async-await/listing-17-13/src/main.rs:here",
+        "sha256": "9fc9d4ea94076de5638ae0c7525ceaf8394378bbefbe236825ebbb31af499c48"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-14/src/main.rs:slow",
+        "sha256": "9fdf33b139e70f4d3544512b786beeb38a564cc6f6c63e929fa021527a2a7c60"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-15/src/main.rs:slow-futures",
+        "sha256": "b21d90694527998c0cffcb356d4672145aa20934bd7d41c0a6b4a1c69c3925ee"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-16/src/main.rs:here",
+        "sha256": "3571f437340a913cfe3ee27058b59a8e7819fb07228f2aa657f8587632de5400"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-17/src/main.rs:yields",
+        "sha256": "b64079849a039fb1d9a5c2a58b8e7c9a2190ed0ee70406eacb17039df9f7e288"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-18/src/main.rs:here",
+        "sha256": "5e85c503549b7adb22ad62e5dd3df1082518357106dcea2f30521955d62e35cd"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-19/src/main.rs:declaration",
+        "sha256": "cf9210dd9fda64d1a9c8f42336463fa06b521d09ed2c36d2ccce399397ab6b46"
+      },
+      {
+        "chapter": "ch17-03-more-futures.md",
+        "source": "../listings/ch17-async-await/listing-17-20/src/main.rs:implementation",
+        "sha256": "63f9b58cfaeb864874f7b706fd887394a56a118153873d3ff2e70e592f451490"
+      },
+      {
+        "chapter": "ch17-04-streams.md",
+        "source": "../listings/ch17-async-await/listing-17-21/src/main.rs:stream",
+        "sha256": "08daec1b1488f17f505f3acb6d8775467a62ecfefad21d44ecdc1442aa515803"
+      },
+      {
+        "chapter": "ch17-04-streams.md",
+        "source": "../listings/ch17-async-await/listing-17-22/src/main.rs:all",
+        "sha256": "8abfcf0bfacfa928e0bbdeb7adf07f3960428aec349aea9bf63154c4c37bd5bd"
+      },
+      {
+        "chapter": "ch17-05-traits-for-async.md",
+        "source": "../listings/ch17-async-await/listing-17-23/src/main.rs:here",
+        "sha256": "243e7a3444cb1523f6a13b41a6403007e4c2f3e8d36048d4c8d171ce124f60c7"
+      },
+      {
+        "chapter": "ch17-05-traits-for-async.md",
+        "source": "../listings/ch17-async-await/listing-17-24/src/main.rs:here",
+        "sha256": "61a47c4bffdd3b6c5f092cf608d4cdfb45cf56d2235b3b4274d88b7be3b36bda"
+      },
+      {
+        "chapter": "ch17-05-traits-for-async.md",
+        "source": "../listings/ch17-async-await/no-listing-stream-ext/src/lib.rs:here",
+        "sha256": "c2891f5516c662cd4d4f7ea482d9d9810b2b20ec9bbca27d19f4e3cb353a74b3"
+      },
+      {
+        "chapter": "ch17-06-futures-tasks-threads.md",
+        "source": "../listings/ch17-async-await/listing-17-25/src/main.rs:all",
+        "sha256": "a9053959a9cc8e4f071359cd13ade72ff1102c7751b87a9ce64e74269e583a71"
+      },
+      {
+        "chapter": "ch18-01-what-is-oo.md",
+        "source": "../listings/ch18-oop/listing-18-01/src/lib.rs",
+        "sha256": "d4ec916100c8d36c45fc0e15d290fec6b7e3a56b6be9114ffa6069c98f3bd182"
+      },
+      {
+        "chapter": "ch18-01-what-is-oo.md",
+        "source": "../listings/ch18-oop/listing-18-02/src/lib.rs:here",
+        "sha256": "1129a308933dcc3f87a478cc2f8c37a17ce2d5ad2c8f61f4ec62663414184993"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-03/src/lib.rs",
+        "sha256": "f69683fad32bc5d82ab6a6bf00f916c9bf38ece6f5c625254b48f77f513297de"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-04/src/lib.rs:here",
+        "sha256": "ba80add4b8986fc7b4721561aeef58bd4b2f863bc2aabca15a1f33958fdb3781"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-05/src/lib.rs:here",
+        "sha256": "f02b2d7a7aceee7a8a07f54c5c2c32d1c59435de6617a3f3fe18bcf63e4d5986"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-06/src/lib.rs:here",
+        "sha256": "20b74a42f8b6da915617adb860ee7d148c6ee01d5efcf0d0495d1c29fd9d9cec"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-07/src/lib.rs:here",
+        "sha256": "d0ad22b93b20c03916c076762fd940c0a72a8e08b311305aef2b49d3a1449374"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-08/src/main.rs:here",
+        "sha256": "e3fc05a4b92e748e66d3839b5e97f11b44b4c5bf8a6085675ebbc84a389903be"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-09/src/main.rs:here",
+        "sha256": "646343cb7de9941e879c3a28eed6504c976ea0b499c65521487fee00ffb24e95"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-10/src/main.rs",
+        "sha256": "a431ebf9e8e10e51ac111fe375216f62f286e35039638f9ab07a42c649c049b7"
+      },
+      {
+        "chapter": "ch18-02-trait-objects.md",
+        "source": "../listings/ch18-oop/listing-18-10/output.txt",
+        "sha256": "850cb64e88412e533870ce73a7e6e6fae5339913dbe9ebd195148cc50a4517fa"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-11/src/main.rs:all",
+        "sha256": "a3427019162eff978d038f3bdc08b1a9355237ca452467d58c3848f930536612"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-12/src/lib.rs",
+        "sha256": "dee2c664f6f030197c626f8827281640c4b4f57572ba0cd7858e824012bc1241"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-13/src/lib.rs:here",
+        "sha256": "70e10ce70914804b490113eab0f18a2b26113ea8b24c5838972d161472f46c99"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-14/src/lib.rs:here",
+        "sha256": "f96d9446059632c5b0b3cd583d6a77c882448fae75909488a312c1371e82d275"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-15/src/lib.rs:here",
+        "sha256": "1cc671b79600a97f9cfb2c7533508be1f1e4ce3e34db20d217840b5b384a2a35"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-16/src/lib.rs:here",
+        "sha256": "9216f490a65f323e35243a9aa8ea3ca1e1756fe39399438bc2903d1df519449e"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-17/src/lib.rs:here",
+        "sha256": "74bbe1b60d223407ca5da13115763773af610378e540f49029e36488ac801f9f"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-18/src/lib.rs:here",
+        "sha256": "5a3d0115a1aa5fc2b75a04177e7455750257a4d8ae7da1f1ed5e3f00bf3c0a4d"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-11/src/main.rs:here",
+        "sha256": "309ffc8fe252a633fb9b1fe4f523f67413f8dffc4b89e3895b1249f77ac11315"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-19/src/lib.rs",
+        "sha256": "66fce8248abb942365515abcdf361d2e9b563b762393fb7da7e4aba9375622a6"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-20/src/lib.rs:here",
+        "sha256": "2db6ab2769b2231db2754ebbe995e1bb9245151d7faff55104f2b700f3e75779"
+      },
+      {
+        "chapter": "ch18-03-oo-design-patterns.md",
+        "source": "../listings/ch18-oop/listing-18-21/src/main.rs",
+        "sha256": "1983a73f01df96bfb23d9922c7b65000e595f07d52ac839798264337a5b6e2d3"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-01/src/main.rs:here",
+        "sha256": "33cb1961d6371e28cdde1b4ccd0f67ad426e691a96587e1173348ea2f42ad90a"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-02/src/main.rs:here",
+        "sha256": "8988c7f86fd696e608ae46f62a4148f6009a157bded616a1894e85c2b4cb161a"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-02/output.txt",
+        "sha256": "f45783aff86922c4a916e7a1b7b4f1aafd8198c24507d5c460090e60bd1a4f45"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-03/src/main.rs",
+        "sha256": "f8fcbd293955e76adcbde8ce097d4c0a5be0cec433093081f2baedfe3860ceff"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-04/src/main.rs:here",
+        "sha256": "3cdd734c15f3e737e3f0ef543c4919cc6f1ec9a2808dc896e00ed7780a45a1b3"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-05/src/main.rs:here",
+        "sha256": "de27591380dc8d74ce0f062758c214de521ec93741ef005f1714b8fbf8aceed6"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-05/output.txt",
+        "sha256": "ba33f57fdc0f0e2182a225d55084f79307ceb08e5176d9eaf98be0a0cb223914"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-06/src/main.rs:here",
+        "sha256": "cfb67f916132f05cc183bd1308495515480f3b92a9b6271298af7753b78a6e86"
+      },
+      {
+        "chapter": "ch19-01-all-the-places-for-patterns.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-07/src/main.rs",
+        "sha256": "e4bc1e42f12a4b835c75e3b3f368fd009505a8c3a254de72ab6904e68c4a93b5"
+      },
+      {
+        "chapter": "ch19-02-refutability.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-08/src/main.rs:here",
+        "sha256": "9ef6aeb6eca5fa407d5ebf42e077e9cbc0e8da40b85c1e231ddbb9bf07bef728"
+      },
+      {
+        "chapter": "ch19-02-refutability.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-08/output.txt",
+        "sha256": "f59b87e9aedadd8a14716fc9c969595c6b85522eff618c3ecd0fe20c23d603b5"
+      },
+      {
+        "chapter": "ch19-02-refutability.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-09/src/main.rs:here",
+        "sha256": "42918c5deea4b5eb461ba7264e6097f0bd4f0aaf6c1d0e3bf378124352ea8a1d"
+      },
+      {
+        "chapter": "ch19-02-refutability.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-10/src/main.rs:here",
+        "sha256": "faa4f530787acc88dc23136d67ccd85c85388f40726acc000eb91d0c505c174f"
+      },
+      {
+        "chapter": "ch19-02-refutability.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-10/output.txt",
+        "sha256": "0f1cfc9f607c03a3f6da7075b0c95cbaed2710c0124d8cd7a815592733db0f70"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/no-listing-01-literals/src/main.rs:here",
+        "sha256": "3447668cd03bf81b7046626236b70d471bd487866a7bfc0d15d5ef5039ad7bbb"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-11/src/main.rs:here",
+        "sha256": "456cbee3a046426bddb14c4d7a75f76dc0635a3fe1e866a3b600720a5ad9222b"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/no-listing-02-multiple-patterns/src/main.rs:here",
+        "sha256": "be58118ff062719b203f569962c75cffc209af2882aaa274cc7ff0429d1e3ee8"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/no-listing-03-ranges/src/main.rs:here",
+        "sha256": "1c74dbb96e72230c2443e40286414630783e479689aae20c5b958fae94bf2e4f"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/no-listing-04-ranges-of-char/src/main.rs:here",
+        "sha256": "d760c2cda17e6bfc3ce51956846c3928c479fcd9ecbace4405fd6e7226211ba3"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-12/src/main.rs",
+        "sha256": "12031e10333fffc84f14c59cc57befa85acdb3c4747130eccbd3faae1c862074"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-13/src/main.rs",
+        "sha256": "4501398f5d52af01ede02b28bc980ea1039582a37849457780411b18571e0b49"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-14/src/main.rs:here",
+        "sha256": "b43db0cb2eac91f641a6d88bbaac176df70c8302f8a2d001dc94e66917a1fb56"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-15/src/main.rs",
+        "sha256": "ec6ba01e8607546581b38ef126c27780fc2adf9a7551132f222e51fb18736931"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-16/src/main.rs",
+        "sha256": "789db304c31e37fda538be98fe5b17ea49da2114ac630c1992d9ed6d9b1830cc"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/no-listing-05-destructuring-structs-and-tuples/src/main.rs:here",
+        "sha256": "859fae1b4ff1ec3741594e2d9f5133a981dc4c067976949705cc77e673133b2e"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-17/src/main.rs",
+        "sha256": "ad3f776e59b5011d04b6a499d218fed9e212c6ec5b4a4a05e1c9c8bacb0e6065"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-18/src/main.rs:here",
+        "sha256": "e910882a0aa5e615e18c4b05da5578cd9d936c364028fa5978fad9f29e6b1102"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-19/src/main.rs:here",
+        "sha256": "922e94387f95826884071c116f4acb47c34ebaf8d4563bdc6b0b1b5e994c2d6d"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-20/src/main.rs",
+        "sha256": "43a3f1cb156d58e8b7ce4a93ccff17e47f29483fa3c4478db2897e41399727c6"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-21/src/main.rs:here",
+        "sha256": "d0f2e4439f722cc5b55a6646a84cb97637fb9ab5ddf1e115037f3c3585fe8904"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-22/src/main.rs:here",
+        "sha256": "34258f00eef2b73bcccf98cb45de1c36ca451cd9c2be708775b87cdafd94954d"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-23/src/main.rs:here",
+        "sha256": "b0a7438dabc5cebab38a71e79b4a382c50e9ec7772b537b27c4e9f19cae91efa"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-24/src/main.rs",
+        "sha256": "93da3643ac449a81ac2d813bdb14483480174272896713501723d28b80e26ec1"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-25/src/main.rs",
+        "sha256": "29d944052ea5e31163895c784c47d262e7788788198d2853a20b94bfdcdb0621"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-25/output.txt",
+        "sha256": "929c06d88c4650887c806123d104167a484a47bb7baa561d3de2a69f820f4f21"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-26/src/main.rs:here",
+        "sha256": "88717441019903ad57e2dec8a0560ed1e2905e86c3f865ceb3cda55d886d3534"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-27/src/main.rs",
+        "sha256": "ee0f5e79ca61893a2bb2d8e4e8440532c4c8c651ccd95ae3b548654869c17d03"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-28/src/main.rs:here",
+        "sha256": "1c47476a2dba693b54bf2a268291b54bae0fa14bf8ede800f1f6701cc52ed4d2"
+      },
+      {
+        "chapter": "ch19-03-pattern-syntax.md",
+        "source": "../listings/ch19-patterns-and-matching/listing-19-29/src/main.rs:here",
+        "sha256": "b83706d2b4282e3f344b463d378a0493611fa5df64b126ecd3cc8c3aa8f4e588"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-01/src/main.rs:here",
+        "sha256": "faa0ae06a70e8440211ca461ac501cfc7a9aaa1d3de9a6f270834dab3d9527e4"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-02/src/main.rs:here",
+        "sha256": "7873edce16461fba3e70ae4b8a50369b5d56b8920604b74cbb4349b31aea0684"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-03/src/main.rs:here",
+        "sha256": "37679be9667dcd819bcff30215e667f43221dccc85fb28afdb3435f2bfba8466"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/no-listing-01-unsafe-fn/src/main.rs:here",
+        "sha256": "765f2e5f1f60b09c56a0c326b556da20bbd3f185de4d20f9ce813f4ac167286c"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/output-only-01-missing-unsafe/output.txt",
+        "sha256": "4d1491d16a0148cd536593ebc227bd2449eaf100e6dfeee3513583fc97897d12"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-04/src/main.rs:here",
+        "sha256": "35fc486d86bb4c44ed3c342121aeec4955a01745a705d9430616e925f1164104"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-05/src/main.rs:here",
+        "sha256": "7c2a1328ddcabe978a2ff99c06581fe5f25acbae6c8c66dfe75ff8c9f2ccd96e"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-05/output.txt",
+        "sha256": "c9cc5ed6bf9a7be3b48071eab99cdd2d041ed13e0b9959d8433a78e114c16b9e"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-06/src/main.rs:here",
+        "sha256": "5ac06bf497a2a7206118c13c04ad0c6a220419607b15686a7f85d64c7e0d5995"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-07/src/main.rs:here",
+        "sha256": "ab1b28d4193558745b6433719e63cc65874862785483b9ff3ea587fdfaf911d0"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-08/src/main.rs",
+        "sha256": "140e04e4f043271ede0106ed4a25d22efdf1bf7f206a945e890a2d2e9cbe368e"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-09/src/main.rs",
+        "sha256": "65ba5d47c98087581f34962df83c825d323382f120877076a25b4f2e28d39d8c"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-10/src/main.rs",
+        "sha256": "5941668efcde3433a03212ebae65d51c9f9d7995241f56dc6e91b16c9b0090eb"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-11/src/main.rs",
+        "sha256": "3f1272a624d9fdbac319e3940dee1da3aa2609fd2a34b60598efdfd0139f72bf"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-12/src/main.rs:here",
+        "sha256": "b746f698b931097d83f8c682b40f82437ec90e9275afcd4ee6fc1b7c017f2b76"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "source": "../listings/ch20-advanced-features/listing-20-07/output.txt",
+        "sha256": "fefc173d79c9c088c53d38ebfde78ab1ee61c97bf8622ebe467df4a9f57f28f4"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-13/src/lib.rs",
+        "sha256": "6da2aefe697b65992c0659fcd8a1eba51b4e33643ffce20e70b4389e3f2d57ad"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/no-listing-22-iterator-on-counter/src/lib.rs:ch19",
+        "sha256": "2cb2d5cda2a66d0d063da31a07a8506789af772b305e05e038d384b8b3881947"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-14/src/lib.rs",
+        "sha256": "01d33b4181a296314a6fa9deea269499893d2a2f24ecbdd392ad97a3fe4d1369"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-15/src/main.rs",
+        "sha256": "02100c43046f7c24b8fed44477bd52fb3e32a7b5aacca006d5a7802dac3f306a"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-16/src/lib.rs",
+        "sha256": "ec3947b3ca4a29fd25cda79d2b2852b3b0ce542f0f516e6abcebeac989cd3ea5"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-17/src/main.rs:here",
+        "sha256": "293a8068be6e698ab1cc8f129ba68d8d1bcf50af261b50c1ec42fa0a9fd0c76f"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-18/src/main.rs:here",
+        "sha256": "90155da2d382d817f685c304a8898a8aea117b116d4f5f28dac5ec6758a273b7"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-19/src/main.rs:here",
+        "sha256": "7a3a70e5b56435dd1d688325453072accd642ab47b95dca2dcf50e758ce24a41"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-19/output.txt",
+        "sha256": "1fd9b039dbe7b4be7d36efb668c33d738ade4618fb8547be51dc1c0aac527dc7"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-20/src/main.rs",
+        "sha256": "73fabcafa71cc3c612bdb910ec2a45093230b87e7dd7363ffc0eb2f7bc08487a"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-20/output.txt",
+        "sha256": "1af18e4536011424734f18a9c8a21ee77718f70e68887a1519e6a220abc2c050"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-21/src/main.rs:here",
+        "sha256": "88cc74720a9412c4f2f03d8d892553818c70dbc3eada9b9c704aa2395c6aee32"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-21/output.txt",
+        "sha256": "edd58a69144128faad1cb6d97c46e70dec10fcd4c0d502ce10fe130c2630d4b1"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-22/src/main.rs:here",
+        "sha256": "d91e3ba156d1c6bc920d9a0ee9167d3ceb7f22968a92236bf4bdc3d7c4a1c5a9"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-22/output.txt",
+        "sha256": "e48528ae2cc671d88dbfb2aaf5e3728bf9ec5058bd822efb9d258e8b4b088fa1"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-23/src/main.rs:here",
+        "sha256": "5bcf40c46003ce7e3589cf628c2a13637d162e4e716f03523037014a87853096"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/no-listing-02-impl-outlineprint-for-point/src/main.rs:here",
+        "sha256": "537ce520ce439950b7ec53b5cc47c1ea28e47f7d56a9eaf4295b87fa651829bd"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/no-listing-02-impl-outlineprint-for-point/output.txt",
+        "sha256": "bb92bfb458e861afa42a63e8b6bc53045e37c54a469745bb2c6937804cf8e7b7"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/no-listing-03-impl-display-for-point/src/main.rs:here",
+        "sha256": "4d478247360f7f329fdf5f4def67bfd50afc82e90e418ba21732542ac2f09c94"
+      },
+      {
+        "chapter": "ch20-02-advanced-traits.md",
+        "source": "../listings/ch20-advanced-features/listing-20-24/src/main.rs",
+        "sha256": "5bf362ddf5e084d2597b425a61eaf20b067e36ab5bf6df4cd58c7adb78111f06"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-04-kilometers-alias/src/main.rs:here",
+        "sha256": "1334a18f0ed7e663c81a42fae2cd67042c7ca3ca2238189c1dd8e0ccb4cf5d55"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-04-kilometers-alias/src/main.rs:there",
+        "sha256": "c05c76856a7fe60b408b08c1a00659b8bfe233e01a7fe5eb2ba91ec48d072e8b"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/listing-20-25/src/main.rs:here",
+        "sha256": "87ac03907892154433d47652ed8e10094a9820508bf23f1fc9e85695a7ce3540"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/listing-20-26/src/main.rs:here",
+        "sha256": "09955723f5783711ea3399c6e086e8e6dec0812fce837b239628d18d57614661"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-05-write-trait/src/lib.rs",
+        "sha256": "8a9da7ccb552dafbe1113db1d6d699c23a931be7fb489133f1b76506f14111e7"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-06-result-alias/src/lib.rs:here",
+        "sha256": "4572fe3dc86f06d07107e25a3e4348348e727da72b116d5fcbe5b8b598cabb17"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-06-result-alias/src/lib.rs:there",
+        "sha256": "54094f76f14251250d3b6cc905b166bfb769cffd25d5fab1a503a501cfdbc394"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-07-never-type/src/lib.rs:here",
+        "sha256": "d069e42ef87ffa2f18cbe23bfbc671c813bb4f55a0d3b5b180ed8e353ea2fc31"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch02-guessing-game-tutorial/listing-02-05/src/main.rs:ch19",
+        "sha256": "21d06f77769a62b6458ae30c88078b12429ae2374565aa39ccd44deed1bc9789"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-08-match-arms-different-types/src/main.rs:here",
+        "sha256": "aabe99534b12cae9cb5c81fcea1c2319f0594bda011f25493a936d3dfc77c4a1"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-09-unwrap-definition/src/lib.rs:here",
+        "sha256": "443abfc7ea88ca557e4058ddc49a1788f244aa168ca7cd6ed4f1c876ee52a270"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-10-loop-returns-never/src/main.rs:here",
+        "sha256": "052fba4052a70eabe09b863bf5be6978c0a913fdf8f002e7b6afbc795eb06e7d"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-11-cant-create-str/src/main.rs:here",
+        "sha256": "f6aa1c67251c435ba984eb57616fc311969e115a8dac45d486e6c85718fc857c"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-12-generic-fn-definition/src/lib.rs",
+        "sha256": "99e150340ea0bfcc64657c4915508ccc70555ad721fdac1cda9b5565403c4072"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-13-generic-implicit-sized-bound/src/lib.rs",
+        "sha256": "b875cc0bf52603409c82a092450c1cc494b6f4b2e71236f15d582781a19fc767"
+      },
+      {
+        "chapter": "ch20-03-advanced-types.md",
+        "source": "../listings/ch20-advanced-features/no-listing-14-generic-maybe-sized/src/lib.rs",
+        "sha256": "98914a690e4ddfad1779f6b7e3c5baa6f1ac2061e14b3dafa50bf23ed38ba539"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-28/src/main.rs",
+        "sha256": "249663fb9477048c067926076622f0f0040cb83d35728abdf4df4c75342c0e0e"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-29/src/main.rs:here",
+        "sha256": "375407e83c0266f4fa987127a90e698956dcdaaa0950737a36938d7eb7aed12c"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-30/src/main.rs:here",
+        "sha256": "bb99610816b0d5e728991b86bc1c495f82469b606ae9949797d7fb5b4e2e3ce2"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-31/src/main.rs:here",
+        "sha256": "6d29720452a908bdce9bd6beb97c2373e4115e6448e405f8b51275e10420bf3a"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-32/src/lib.rs",
+        "sha256": "905225ed99693b7154d9e5e13e061ef1b1ef7645a07b62621633dc4c8328ce9f"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-33/src/main.rs",
+        "sha256": "c6291724a1b864b87fe8d215505a3d45cdae1fa470a424f4fd307bccb39419b0"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-33/output.txt",
+        "sha256": "8fefd23045cb365fc7ac6aa5541c4a65b5c65ab0397021846fd2ca97becf6a39"
+      },
+      {
+        "chapter": "ch20-04-advanced-functions-and-closures.md",
+        "source": "../listings/ch20-advanced-features/listing-20-34/src/main.rs:here",
+        "sha256": "2342d48131e603e599a9ddf3cfb0e9a55fe0e5eed21fc310bd38553327d348b3"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-35/src/lib.rs",
+        "sha256": "5097773dcdaef4e35822aca89ea5b2e86e9f41860f7ac8c3b7bcb85efe0c3d6e"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-37/src/main.rs",
+        "sha256": "a7082abae03c4a711c3235d495941431d2ae0cbecb8191b5b25eb4086d536917"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-38/hello_macro/src/lib.rs",
+        "sha256": "2ed08972db498cdbc97a51a6dd4f5229ee420a18834f1a1fe331ef59e692f3ec"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-39/pancakes/src/main.rs",
+        "sha256": "7dda16f8980c42d933e9bffb4cce040d6d67807d1710363aa8e6d3cb84099a26"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-40/hello_macro/hello_macro_derive/Cargo.toml:6:12",
+        "sha256": "795b154791ffe9464f19a8d1c308a3445f8528af3c5b52fb2470f407f07ad703"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-40/hello_macro/hello_macro_derive/src/lib.rs",
+        "sha256": "6176875a2a6e7e3446d0d6b985316582767d41bba13c341fe2b1fd9bedec7df1"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/listing-20-42/hello_macro/hello_macro_derive/src/lib.rs:here",
+        "sha256": "54cca1cc54775f3d40998f21eba86a9627549b2df9064095458423567d17d292"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "source": "../listings/ch20-advanced-features/no-listing-21-pancakes/pancakes/Cargo.toml:6:8",
+        "sha256": "d320080d7160026ebe716c5f1ce421c546730ea828ffbd6640e20750c4952497"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-01/src/main.rs",
+        "sha256": "604c9880902604741735b820af955d97a12b70a1e2cd74815173c3131003f643"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-02/src/main.rs",
+        "sha256": "050de7da5ebda9f8876de63f848860203379ff620eb671b7d3a1717dbaac6c7f"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-03/src/main.rs:here",
+        "sha256": "2ce9438bc149e1742d997c3c50af3c1dc87665ac9d60bcc8c7ef045d3bcf9647"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-05/hello.html",
+        "sha256": "a45e0f45bc7f3a7bbce1103e2be4b4273aac8bbc667de155435daf0883c20078"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-05/src/main.rs:here",
+        "sha256": "d551b53676710fb494c5617b768f761dfb123a882e32f5bdb487a358cad98fc9"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-06/src/main.rs:here",
+        "sha256": "c758123ab6dac5448db2968cb9313dc79d70e9a4d81bf577c6d41ea3c4a111d1"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-07/src/main.rs:here",
+        "sha256": "1c93ef4d32fd9ef35ec67ddbc70a60b765ec0ebd5aa58b0b7adc645e20290b6b"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-07/404.html",
+        "sha256": "b03e4aa414959a96ad760e6356ce841243ea18c80bb5f6df495240296f612193"
+      },
+      {
+        "chapter": "ch21-01-single-threaded.md",
+        "source": "../listings/ch21-web-server/listing-21-09/src/main.rs:here",
+        "sha256": "8043c0690b734bc0e5e68f7e15dae1f88cf5c14fe76ae4b8e5d56471ff62c381"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-10/src/main.rs:here",
+        "sha256": "421e42b937c7a41693fa472a530b88e096fd6fd69f625a4cab1c71c93aae1320"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-11/src/main.rs:here",
+        "sha256": "7f10ef9d547dc2eaf54a8c166c47003ad8a0c1eacb559ff5930ca7d7315f44c7"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-12/src/main.rs:here",
+        "sha256": "57ab408eed40e552786672c1e429f476f772b509bedbb4ccedc25468f42cc601"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-12/output.txt",
+        "sha256": "ee521d1ed401bc7bc61f7d06d28a39df9df9d5557d9f6bca40283556ed813e30"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-01-define-threadpool-struct/src/lib.rs",
+        "sha256": "819bb07586752fcd4de2ab2a48ce028070506418ae341049733924b32b1071e3"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-01-define-threadpool-struct/src/main.rs:here",
+        "sha256": "1c3a06cb9bcbce2cef3902f1615687768af606bfb6e9e63046a989357c308c02"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-01-define-threadpool-struct/output.txt",
+        "sha256": "f44b8c5622562b48b2a2c9737c9eb22b42693e962bba43e63feb37502fd81556"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-02-impl-threadpool-new/src/lib.rs",
+        "sha256": "617f3cfdae89b74493df9e21fe7be326efcd40f3351984382ab6c74844969d01"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-02-impl-threadpool-new/output.txt",
+        "sha256": "8ab77f31d641697f29e36890dd3a6d89f25180ca1e09b56ae272079ff52585cd"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-03-define-execute/src/lib.rs:here",
+        "sha256": "fa2565086daaa5d3d0bb287feec6b92ce3aa7d317d3c8657b390195ce46684e8"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/no-listing-03-define-execute/output.txt",
+        "sha256": "e9a49ceff58b640e450eab9e825fd59a3bfa8b8bc352a5a8c647a21ab471a41e"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-13/src/lib.rs:here",
+        "sha256": "004c7644d8d33fc0f47db23a9e428c72bac77ad735a59d4996fc084e0be81d89"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-14/src/lib.rs:here",
+        "sha256": "4e70d9650b6c927ea933a13d600af97ddb58f45203993b109fe9e24f1604a61b"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-15/src/lib.rs:here",
+        "sha256": "87daeb13293f128add88bdc4ab6ef52adbda814b29e24642a756143feef5557a"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-16/src/lib.rs:here",
+        "sha256": "3bf195c86d964a2c9e6fd2ec9399b9f7676cd57253d55b9c750ba8fd2ea479bb"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-17/src/lib.rs:here",
+        "sha256": "f80d69b6ce43cc1ed16cb88c746e2d4fd64281230d216513d20fbbbe4943438d"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-17/output.txt",
+        "sha256": "3f4dcb8f5f93bade7b1c716bd1583b2111f49ca615cae498855f4569131ede68"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-18/src/lib.rs:here",
+        "sha256": "9001b2da8d2dae5f5d4bf22589def5b570603ff62093bc69e986f34b2fe9f527"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-19/src/lib.rs:here",
+        "sha256": "201d816cb0422572a3f44ec5c56fb03935e3a58b6e448b17b854787633de88b7"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-20/src/lib.rs:here",
+        "sha256": "ad74a61e07f2aa302377c1bcd29412a165a16b29b63486b0d49e5a0ce07069cb"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "source": "../listings/ch21-web-server/listing-21-21/src/lib.rs:here",
+        "sha256": "fbac45567fa4b85383079a87e37355453468c26a28132dd5ea2d539a0896e84a"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/listing-21-22/src/lib.rs:here",
+        "sha256": "eb149be4b801ca8213dcfd43f3c868122bc905b39052e48b46fe7823ecaa1485"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/listing-21-22/output.txt",
+        "sha256": "10436af892584b3213d01a2ca69b45a1e482994ea9bcefaaff4143b6f2812d15"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/no-listing-04-update-drop-definition/src/lib.rs:here",
+        "sha256": "631b01acbdc0cead7fc517c911a6ca3a1c5762c12b562471746c466c897642de"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/listing-21-23/src/lib.rs:here",
+        "sha256": "5d76f0cf2b8a3611fbeb446a5c657140d5c4948d97266b4d3956881b74409809"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/listing-21-24/src/lib.rs:here",
+        "sha256": "c177ce71713060710bf8bc2f30dc89b95cd442b44920fbd621203cdd17e4996c"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/listing-21-25/src/main.rs:here",
+        "sha256": "168870f7afc84c370196bc8e7ff4e7c60cfadd93543cbfe4b24e9f8ba2d24b26"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/no-listing-07-final-code/src/main.rs",
+        "sha256": "293f8570d9fea6db35f51e39a3ba44c2ef14984c8badf52135abd3e2a4bf6c11"
+      },
+      {
+        "chapter": "ch21-03-graceful-shutdown-and-cleanup.md",
+        "source": "../listings/ch21-web-server/no-listing-07-final-code/src/lib.rs",
+        "sha256": "823559cdfc72bbd61c9241aa8bc78e3290375cfe6965d1b8c2dbdd8ef41d2b18"
+      }
+    ],
+    "externalized_links": [
+      {
+        "chapter": "appendix-01-keywords.md",
+        "original": "../reference/items/unions.html",
+        "url": "https://doc.rust-lang.org/reference/items/unions.html"
+      },
+      {
+        "chapter": "appendix-03-derivable-traits.md",
+        "original": "../std/index.html",
+        "url": "https://doc.rust-lang.org/std/index.html"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/prelude/index.html",
+        "url": "https://doc.rust-lang.org/std/prelude/index.html"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/string/struct.String.html",
+        "url": "https://doc.rust-lang.org/std/string/struct.String.html"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/io/struct.Stdin.html",
+        "url": "https://doc.rust-lang.org/std/io/struct.Stdin.html"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/io/struct.Stdin.html#method.read_line",
+        "url": "https://doc.rust-lang.org/std/io/struct.Stdin.html#method.read_line"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/result/enum.Result.html",
+        "url": "https://doc.rust-lang.org/std/result/enum.Result.html"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/result/enum.Result.html#method.expect",
+        "url": "https://doc.rust-lang.org/std/result/enum.Result.html#method.expect"
+      },
+      {
+        "chapter": "ch02-00-guessing-game-tutorial.md",
+        "original": "../std/primitive.str.html#method.parse",
+        "url": "https://doc.rust-lang.org/std/primitive.str.html#method.parse"
+      },
+      {
+        "chapter": "ch03-01-variables-and-mutability.md",
+        "original": "../reference/const_eval.html",
+        "url": "https://doc.rust-lang.org/reference/const_eval.html"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "original": "../std/macro.println.html",
+        "url": "https://doc.rust-lang.org/std/macro.println.html"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "original": "../std/macro.dbg.html",
+        "url": "https://doc.rust-lang.org/std/macro.dbg.html"
+      },
+      {
+        "chapter": "ch05-02-example-structs.md",
+        "original": "../reference/attributes.html",
+        "url": "https://doc.rust-lang.org/reference/attributes.html"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "original": "../std/net/enum.IpAddr.html",
+        "url": "https://doc.rust-lang.org/std/net/enum.IpAddr.html"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "original": "../std/option/enum.Option.html",
+        "url": "https://doc.rust-lang.org/std/option/enum.Option.html"
+      },
+      {
+        "chapter": "ch06-01-defining-an-enum.md",
+        "original": "../std/option/enum.Option.html",
+        "url": "https://doc.rust-lang.org/std/option/enum.Option.html"
+      },
+      {
+        "chapter": "ch07-04-bringing-paths-into-scope-with-the-use-keyword.md",
+        "original": "../std/prelude/index.html#other-preludes",
+        "url": "https://doc.rust-lang.org/std/prelude/index.html#other-preludes"
+      },
+      {
+        "chapter": "ch08-00-common-collections.md",
+        "original": "../std/collections/index.html",
+        "url": "https://doc.rust-lang.org/std/collections/index.html"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "original": "../nomicon/vec/vec.html",
+        "url": "https://doc.rust-lang.org/nomicon/vec/vec.html"
+      },
+      {
+        "chapter": "ch08-01-vectors.md",
+        "original": "../std/vec/struct.Vec.html",
+        "url": "https://doc.rust-lang.org/std/vec/struct.Vec.html"
+      },
+      {
+        "chapter": "ch09-02-recoverable-errors-with-result.md",
+        "original": "../std/process/trait.Termination.html",
+        "url": "https://doc.rust-lang.org/std/process/trait.Termination.html"
+      },
+      {
+        "chapter": "ch10-03-lifetime-syntax.md",
+        "original": "../reference/trait-bounds.html",
+        "url": "https://doc.rust-lang.org/reference/trait-bounds.html"
+      },
+      {
+        "chapter": "ch11-01-writing-tests.md",
+        "original": "../unstable-book/library-features/test.html",
+        "url": "https://doc.rust-lang.org/unstable-book/library-features/test.html"
+      },
+      {
+        "chapter": "ch13-01-closures.md",
+        "original": "../std/option/enum.Option.html#method.unwrap_or_else",
+        "url": "https://doc.rust-lang.org/std/option/enum.Option.html#method.unwrap_or_else"
+      },
+      {
+        "chapter": "ch15-06-reference-cycles.md",
+        "original": "../nomicon/index.html",
+        "url": "https://doc.rust-lang.org/nomicon/index.html"
+      },
+      {
+        "chapter": "ch16-03-shared-state.md",
+        "original": "../std/sync/atomic/index.html",
+        "url": "https://doc.rust-lang.org/std/sync/atomic/index.html"
+      },
+      {
+        "chapter": "ch16-04-extensible-concurrency-sync-and-send.md",
+        "original": "../nomicon/index.html",
+        "url": "https://doc.rust-lang.org/nomicon/index.html"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "original": "../reference/items/external-blocks.html#abi",
+        "url": "https://doc.rust-lang.org/reference/items/external-blocks.html#abi"
+      },
+      {
+        "chapter": "ch20-01-unsafe-rust.md",
+        "original": "../reference/items/unions.html",
+        "url": "https://doc.rust-lang.org/reference/items/unions.html"
+      },
+      {
+        "chapter": "ch20-05-macros.md",
+        "original": "../reference/macros-by-example.html",
+        "url": "https://doc.rust-lang.org/reference/macros-by-example.html"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "original": "../std/thread/struct.Builder.html",
+        "url": "https://doc.rust-lang.org/std/thread/struct.Builder.html"
+      },
+      {
+        "chapter": "ch21-02-multithreaded.md",
+        "original": "../std/thread/struct.Builder.html#method.spawn",
+        "url": "https://doc.rust-lang.org/std/thread/struct.Builder.html#method.spawn"
+      }
+    ],
+    "source_tree_sha256": "ead2ee17bc06f036192a421e101e72f58ad560c0286dc67387f5dd0a5a8af778"
+  },
+  "rust-by-example": {
+    "markdown_files": 198,
+    "includes": [],
+    "externalized_links": [],
+    "source_tree_sha256": "b789ce09a29a5dac95d6599fc3ad4192b7e1e0ce702e90450aada9365b924df9"
+  }
+}
