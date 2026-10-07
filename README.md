@@ -28,5 +28,4 @@ rust-lab/
 
 ## notes
 
-[[learning-ladder]]
-
+[learning-ladder](/notes/learning-ladder.md)
