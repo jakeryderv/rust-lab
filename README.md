@@ -29,3 +29,5 @@ rust-lab/
 ## notes
 
 [learning-ladder](/notes/learning-ladder.md)
+
+[project-ideas](/notes/project-ideas.md)
