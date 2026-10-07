@@ -21,13 +21,10 @@ rust-lab/
 ## sources
 
 [rust book](https://doc.rust-lang.org/book/)
-
 [rust by example](https://doc.rust-lang.org/rust-by-example/)
-
 [rustlings](https://github.com/rust-lang/rustlings/)
 
 ## notes
 
 [learning-ladder](/notes/learning-ladder.md)
-
 [project-ideas](/notes/project-ideas.md)
