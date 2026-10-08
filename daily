@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+OFFSET="${1:-0}"
+
+if [[ $# -gt 1 || ! "$OFFSET" =~ ^[+-]?[0-9]+$ ]]; then
+    printf 'Usage: %s [integer offset]\n' "$0" >&2
+    exit 1
+fi
+
+DATE=$(date -d "today $OFFSET days" +%F) || exit 1
+REPO_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+daily_note="$REPO_ROOT/notes/daily/$DATE.md"
+
+printf '%s\n' "$daily_note"
+
+# if [[ -f "$daily_note" ]]; then
+#     printf 'opening...\n'
+# else
+#     printf 'creating & opening...\n'
+# fi
+
+nvim "$daily_note"
