@@ -1,11 +1,30 @@
+<a id="section-ch00-00-introduction"></a>
+
+<a id="section-ch00-00-introduction--introduction"></a>
+
 # Introduction
 
-> Note: This edition of the book is the same as [The Rust Programming
-> Language][nsprust] available in print and ebook format from [No Starch
-> Press][nsp].
+[Chapter index](SUMMARY.md)
 
-[nsprust]: https://nostarch.com/rust-programming-language-3rd-edition
-[nsp]: https://nostarch.com/
+**In this chapter**
+
+- [Who Rust Is For](#section-ch00-00-introduction--who-rust-is-for)
+- [Teams of Developers](#section-ch00-00-introduction--teams-of-developers)
+- [Students](#section-ch00-00-introduction--students)
+- [Companies](#section-ch00-00-introduction--companies)
+- [Open Source Developers](#section-ch00-00-introduction--open-source-developers)
+- [People Who Value Speed and Stability](#section-ch00-00-introduction--people-who-value-speed-and-stability)
+- [Who This Book Is For](#section-ch00-00-introduction--who-this-book-is-for)
+- [How to Use This Book](#section-ch00-00-introduction--how-to-use-this-book)
+- [Source Code](#section-ch00-00-introduction--source-code)
+
+
+> Note: This edition of the book is the same as [The Rust Programming
+> Language][section-ch00-00-introduction-ref-1] available in print and ebook format from [No Starch
+> Press][section-ch00-00-introduction-ref-2].
+
+[section-ch00-00-introduction-ref-1]: https://nostarch.com/rust-programming-language-3rd-edition
+[section-ch00-00-introduction-ref-2]: https://nostarch.com/
 
 Welcome to _The Rust Programming Language_, an introductory book about Rust.
 The Rust programming language helps you write faster, more reliable software.
@@ -15,10 +34,14 @@ technical capacity and a great developer experience, Rust gives you the option
 to control low-level details (such as memory usage) without all the hassle
 traditionally associated with such control.
 
+<a id="section-ch00-00-introduction--who-rust-is-for"></a>
+
 ## Who Rust Is For
 
 Rust is ideal for many people for a variety of reasons. Let’s look at a few of
 the most important groups.
+
+<a id="section-ch00-00-introduction--teams-of-developers"></a>
 
 ### Teams of Developers
 
@@ -44,6 +67,8 @@ Rust also brings contemporary developer tools to the systems programming world:
 By using these and other tools in the Rust ecosystem, developers can be
 productive while writing systems-level code.
 
+<a id="section-ch00-00-introduction--students"></a>
+
 ### Students
 
 Rust is for students and those who are interested in learning about systems
@@ -53,6 +78,8 @@ students’ questions. Through efforts such as this book, the Rust teams want to
 make systems concepts more accessible to more people, especially those new to
 programming.
 
+<a id="section-ch00-00-introduction--companies"></a>
+
 ### Companies
 
 Hundreds of companies, large and small, use Rust in production for a variety of
@@ -61,11 +88,15 @@ devices, audio and video analysis and transcoding, cryptocurrencies,
 bioinformatics, search engines, Internet of Things applications, machine
 learning, and even major parts of the Firefox web browser.
 
+<a id="section-ch00-00-introduction--open-source-developers"></a>
+
 ### Open Source Developers
 
 Rust is for people who want to build the Rust programming language, community,
 developer tools, and libraries. We’d love to have you contribute to the Rust
 language.
+
+<a id="section-ch00-00-introduction--people-who-value-speed-and-stability"></a>
 
 ### People Who Value Speed and Stability
 
@@ -84,6 +115,8 @@ ambition is to eliminate the trade-offs that programmers have accepted for
 decades by providing safety _and_ productivity, speed _and_ ergonomics. Give
 Rust a try, and see if its choices work for you.
 
+<a id="section-ch00-00-introduction--who-this-book-is-for"></a>
+
 ## Who This Book Is For
 
 This book assumes that you’ve written code in another programming language, but
@@ -93,6 +126,8 @@ backgrounds. We don’t spend a lot of time talking about what programming _is_
 or how to think about it. If you’re entirely new to programming, you would be
 better served by reading a book that specifically provides an introduction to
 programming.
+
+<a id="section-ch00-00-introduction--how-to-use-this-book"></a>
 
 ## How to Use This Book
 
@@ -191,9 +226,11 @@ meant to work:
 In most situations, we’ll lead you to the correct version of any code that
 doesn’t compile.
 
+<a id="section-ch00-00-introduction--source-code"></a>
+
 ## Source Code
 
 The source files from which this book is generated can be found on
-[GitHub][book].
+[GitHub][section-ch00-00-introduction-ref-3].
 
-[book]: https://github.com/rust-lang/book/tree/main/src
+[section-ch00-00-introduction-ref-3]: https://github.com/rust-lang/book/tree/main/src

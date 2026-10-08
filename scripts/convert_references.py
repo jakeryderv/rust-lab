@@ -15,6 +15,7 @@ from pathlib import Path
 import re
 import shutil
 import sys
+import tempfile
 from urllib.parse import urljoin, urlsplit
 
 
@@ -92,7 +93,7 @@ def outside_fences(text, transform, transform_code):
     return "".join(result)
 
 
-def convert(source, output):
+def convert_sections(source, output):
     output.mkdir(parents=True, exist_ok=False)
     report = {}
     for name in ("book", "rust-by-example"):
@@ -273,6 +274,18 @@ The source-tree fingerprint hashes sorted relative paths followed by NUL and eac
 file's SHA-256 digest, excluding `.git` metadata.
 """)
     print(json.dumps({name: {"chapters": s["markdown_files"], "includes": len(s["includes"]), "externalized_links": len(s["externalized_links"])} for name, s in report.items()}, indent=2))
+
+
+def convert(source, output):
+    """Expand upstream sources, then publish one reading file per chapter."""
+    from aggregate_references import aggregate
+
+    if output.exists():
+        raise FileExistsError(output)
+    with tempfile.TemporaryDirectory(prefix="rust-reading-copies-") as directory:
+        sections = Path(directory) / "sections"
+        convert_sections(source, sections)
+        aggregate(sections, output)
 
 
 if __name__ == "__main__":

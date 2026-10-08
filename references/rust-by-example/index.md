@@ -1,65 +1,72 @@
+<a id="section-index"></a>
+
+<a id="section-index--rust-by-example"></a>
+
 # Rust by Example
 
-[Rust][rust] is a modern systems programming language focusing on safety, speed,
+[Chapter index](SUMMARY.md)
+
+
+[Rust][section-index-ref-1] is a modern systems programming language focusing on safety, speed,
 and concurrency. It accomplishes these goals by being memory safe without using
 garbage collection.
 
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust
 concepts and standard libraries. To get even more out of these examples, don't forget
-to [install Rust locally][install] and check out the [official docs][std].
-Additionally for the curious, you can also [check out the source code for this site][home].
+to [install Rust locally][section-index-ref-2] and check out the [official docs][section-index-ref-3].
+Additionally for the curious, you can also [check out the source code for this site][section-index-ref-4].
 
 Now let's begin!
 
-- [Hello World](hello.md) - Start with a traditional Hello World program.
+- [Hello World](01-hello-world.md) - Start with a traditional Hello World program.
 
-- [Primitives](primitives.md) - Learn about signed integers, unsigned integers and other primitives.
+- [Primitives](02-primitives.md) - Learn about signed integers, unsigned integers and other primitives.
 
-- [Custom Types](custom_types.md) - `struct` and `enum`.
+- [Custom Types](03-custom-types.md) - `struct` and `enum`.
 
-- [Variable Bindings](variable_bindings.md) - mutable bindings, scope, shadowing.
+- [Variable Bindings](04-variable-bindings.md) - mutable bindings, scope, shadowing.
 
-- [Types](types.md) - Learn about changing and defining types.
+- [Types](05-types.md) - Learn about changing and defining types.
 
-- [Conversion](conversion.md) - Convert between different types, such as strings, integers, and floats.
+- [Conversion](06-conversion.md) - Convert between different types, such as strings, integers, and floats.
 
-- [Expressions](expression.md) - Learn about Expressions & how to use them.
+- [Expressions](07-expressions.md) - Learn about Expressions & how to use them.
 
-- [Flow of Control](flow_control.md) - `if`/`else`, `for`, and others.
+- [Flow of Control](08-flow-of-control.md) - `if`/`else`, `for`, and others.
 
-- [Functions](fn.md) - Learn about Methods, Closures and Higher Order Functions.
+- [Functions](09-functions.md) - Learn about Methods, Closures and Higher Order Functions.
 
-- [Modules](mod.md) - Organize code using modules
+- [Modules](10-modules.md) - Organize code using modules
 
-- [Crates](crates.md) - A crate is a compilation unit in Rust. Learn to create a library.
+- [Crates](11-crates.md) - A crate is a compilation unit in Rust. Learn to create a library.
 
-- [Cargo](cargo.md) - Go through some basic features of the official Rust package management tool.
+- [Cargo](12-cargo.md) - Go through some basic features of the official Rust package management tool.
 
-- [Attributes](attribute.md) - An attribute is metadata applied to some module, crate or item.
+- [Attributes](13-attributes.md) - An attribute is metadata applied to some module, crate or item.
 
-- [Generics](generics.md) - Learn about writing a function or data type which can work for multiple types of arguments.
+- [Generics](14-generics.md) - Learn about writing a function or data type which can work for multiple types of arguments.
 
-- [Scoping rules](scope.md) - Scopes play an important part in ownership, borrowing, and lifetimes.
+- [Scoping rules](15-scoping-rules.md) - Scopes play an important part in ownership, borrowing, and lifetimes.
 
-- [Traits](trait.md) - A trait is a collection of methods defined for an unknown type: `Self`
+- [Traits](16-traits.md) - A trait is a collection of methods defined for an unknown type: `Self`
 
-- [Macros](macros.md) - Macros are a way of writing code that writes other code, which is known as metaprogramming.
+- [Macros](17-macro_rules.md) - Macros are a way of writing code that writes other code, which is known as metaprogramming.
 
-- [Error handling](error.md) - Learn Rust way of handling failures.
+- [Error handling](18-error-handling.md) - Learn Rust way of handling failures.
 
-- [Std library types](std.md) - Learn about some custom types provided by `std` library.
+- [Std library types](19-std-library-types.md) - Learn about some custom types provided by `std` library.
 
-- [Std misc](std_misc.md) - More custom types for file handling, threads.
+- [Std misc](20-std-misc.md) - More custom types for file handling, threads.
 
-- [Testing](testing.md) - All sorts of testing in Rust.
+- [Testing](21-testing.md) - All sorts of testing in Rust.
 
-- [Unsafe Operations](unsafe.md) - Learn about entering a block of unsafe operations.
+- [Unsafe Operations](22-unsafe-operations.md) - Learn about entering a block of unsafe operations.
 
-- [Compatibility](compatibility.md) - Handling Rust's evolution and potential compatibility issues.
+- [Compatibility](23-compatibility.md) - Handling Rust's evolution and potential compatibility issues.
 
-- [Meta](meta.md) - Documentation, Benchmarking.
+- [Meta](24-meta.md) - Documentation, Benchmarking.
 
-[rust]: https://www.rust-lang.org/
-[install]: https://www.rust-lang.org/tools/install
-[std]: https://doc.rust-lang.org/std/
-[home]: https://github.com/rust-lang/rust-by-example
+[section-index-ref-1]: https://www.rust-lang.org/
+[section-index-ref-2]: https://www.rust-lang.org/tools/install
+[section-index-ref-3]: https://doc.rust-lang.org/std/
+[section-index-ref-4]: https://github.com/rust-lang/rust-by-example

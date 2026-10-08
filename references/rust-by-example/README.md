@@ -1,6 +1,6 @@
 # Rust by Example
 
-Start with the [table of contents](SUMMARY.md).
+Start with the [chapter index](SUMMARY.md). Each chapter is a single Markdown file with a linked contents list where it has subsections.
 
 Adapted from [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) for reading in a Markdown viewer. See [conversion notes](../README.md).
 
